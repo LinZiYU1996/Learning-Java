@@ -17,8 +17,8 @@ public class OrderOfInitialization {
 //    呢？
 
     public static void main(String[] args) {
-        Card t = new Card();
-        t.f(); // Shows that construction is done
+        House h = new House();
+        h.f(); // Shows that construction is done
     }
 
 

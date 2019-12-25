@@ -15,6 +15,7 @@ public class Cupboard {
     Cupboard() {
         System.out.println("Cupboard()");
         b4.f(2);
+        System.out.println("");
     }
 
 

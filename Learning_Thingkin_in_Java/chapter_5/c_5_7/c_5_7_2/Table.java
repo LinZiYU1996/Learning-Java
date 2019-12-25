@@ -12,6 +12,7 @@ public class Table {
     Table() {
         System.out.println("Table()");
         b2.f(1);
+        System.out.println("");
     }
 
 

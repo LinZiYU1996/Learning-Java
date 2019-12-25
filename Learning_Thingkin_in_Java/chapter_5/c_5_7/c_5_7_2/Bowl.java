@@ -10,6 +10,7 @@ public class Bowl {
     Bowl(int marker,String flag) {
         System.out.println("Bowl(" + marker + ")" + flag);
     }
+
     void f(int marker) {
         System.out.println("f(" + marker + ")");
     }

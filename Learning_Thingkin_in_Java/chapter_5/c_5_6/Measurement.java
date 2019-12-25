@@ -28,6 +28,4 @@ public class Measurement {
                         "double " + d);
     }
 
-
-
 }

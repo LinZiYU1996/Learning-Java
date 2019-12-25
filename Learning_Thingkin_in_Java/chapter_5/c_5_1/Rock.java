@@ -26,6 +26,4 @@ public class Rock {
         System.out.println("Create" + i);
     }
 
-
-
 }

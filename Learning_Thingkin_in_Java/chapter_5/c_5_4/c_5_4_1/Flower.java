@@ -28,10 +28,8 @@ public class Flower {
     Flower(String s, int petals) {
         this(petals);
 
-
 //        细节问题
 //! this(s); // Can't call two!
-
 
         this.s = s; // Another use of "this"
         System.out.println("String & int args");
@@ -47,10 +45,8 @@ public class Flower {
 
     void print() {
 
-
 //        细节问题
 //! this(11); // Not inside non-constructor!
-
 
         System.out.println(
                 "petalCount = " + petalCount + " s = "+ s);
