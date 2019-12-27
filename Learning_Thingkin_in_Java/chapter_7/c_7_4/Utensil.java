@@ -10,7 +10,7 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
 public class Utensil {
 
     Utensil(int i) {
-        print("Utensil constructor");
+        print("构造工具");
     }
 
 

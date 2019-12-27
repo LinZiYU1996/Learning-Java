@@ -28,4 +28,8 @@ public class Beetle extends Insect{
         print("Beetle constructor");
         Beetle b = new Beetle();
     }
+//    运行程序时，所发生的第一件事就是试图访问Beetle.main方法，于是加载器开始启动并找出Beetle
+//    类的编译代码，在对它进行加载过程中，编译器注意到它有一个基类，于是它继续进行加载，不管你是否
+//    打算产生一个该基类的对象，这都要发生。
+//    根基类中的static初始化（即Insect）被执行，然后是下一个导出类，以此类推。
 }

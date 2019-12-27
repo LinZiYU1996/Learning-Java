@@ -11,7 +11,7 @@ public class Knife extends Utensil{
 
     Knife(int i) {
         super(i);
-        print("Knife constructor");
+        print("构造餐刀");
     }
 
 

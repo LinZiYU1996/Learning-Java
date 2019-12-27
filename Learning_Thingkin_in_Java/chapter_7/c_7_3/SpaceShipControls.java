@@ -7,6 +7,7 @@ package chapter_7.c_7_3;
  */
 public class SpaceShipControls {
 
+//    太空飞船的控制模块
     void up(int velocity) {}
     void down(int velocity) {}
     void left(int velocity) {}

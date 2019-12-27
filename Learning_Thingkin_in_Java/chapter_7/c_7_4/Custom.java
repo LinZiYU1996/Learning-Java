@@ -10,6 +10,6 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
 public class Custom {
 
     Custom(int i) {
-        print("Custom constructor");
+        print("构造顾客");
     }
 }

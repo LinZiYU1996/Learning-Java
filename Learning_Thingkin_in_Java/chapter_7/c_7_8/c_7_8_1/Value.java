@@ -7,7 +7,8 @@ package chapter_7.c_7_8.c_7_8_1;
  */
 public class Value {
 
-    int i; // Package access
+    int i; // 包访问权限
+
     public Value(int i) { this.i = i; }
 
 

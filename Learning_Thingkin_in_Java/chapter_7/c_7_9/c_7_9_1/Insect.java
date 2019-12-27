@@ -10,14 +10,21 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
 public class Insect {
 
     private int i = 9;
+
     protected int j;
-    Insect() {
+
+    Insect()
+    {
         print("i = " + i + ", j = " + j);
         j = 39;
     }
+
+
     private static int x1 =
             printInit("static Insect.x1 initialized");
-    static int printInit(String s) {
+
+    static int printInit(String s)
+    {
         print(s);
         return 47;
     }

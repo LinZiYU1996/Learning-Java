@@ -11,7 +11,7 @@ public class Fork extends Utensil{
 
     Fork(int i) {
         super(i);
-        print("Fork constructor");
+        print("构造刀叉");
     }
 
 

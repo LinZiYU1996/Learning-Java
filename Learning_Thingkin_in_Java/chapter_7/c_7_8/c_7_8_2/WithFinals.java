@@ -10,8 +10,11 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
 public class WithFinals {
 
     // Identical to "private" alone:
+
     private final void f() { print("WithFinals.f()"); }
+
     // Also automatically "final":
+
     private void g() { print("WithFinals.g()"); }
 
 

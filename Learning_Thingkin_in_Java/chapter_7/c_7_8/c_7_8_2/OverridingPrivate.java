@@ -9,10 +9,13 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
  */
 public class OverridingPrivate extends WithFinals{
 
-    private final void f() {
+    private final void f()
+    {
         print("OverridingPrivate.f()");
     }
-    private void g() {
+
+    private void g()
+    {
         print("OverridingPrivate.g()");
     }
 

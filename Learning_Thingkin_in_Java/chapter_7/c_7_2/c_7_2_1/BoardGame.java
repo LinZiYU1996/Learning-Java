@@ -10,6 +10,7 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
 public class BoardGame extends Game{
 
     BoardGame(int i) {
+
         super(i);
         System.out.println(i);
         print("BoardGame constructor");

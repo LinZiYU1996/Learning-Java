@@ -11,7 +11,7 @@ public class Spoon extends Utensil{
 
     Spoon(int i) {
         super(i);
-        print("Spoon constructor");
+        print("构造勺子");
     }
 
 }

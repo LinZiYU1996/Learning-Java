@@ -7,6 +7,9 @@ package chapter_7.c_7_3;
  */
 public class SpaceShipDelegation {
 
+//    通过代理来解决问题
+
+
     private String name;
     private SpaceShipControls controls =
             new SpaceShipControls();

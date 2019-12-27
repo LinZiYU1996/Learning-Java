@@ -11,7 +11,7 @@ public class DinnerPlate extends Plate {
 
     DinnerPlate(int i) {
         super(i);
-        print("DinnerPlate constructor");
+        print("构造晚餐盘子");
     }
 
 
