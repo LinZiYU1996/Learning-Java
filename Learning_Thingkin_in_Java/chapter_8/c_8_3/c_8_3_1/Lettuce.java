@@ -6,8 +6,8 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
  * @Author: Mr.Lin
  * @Description:
  * @Date: Create in 17:13 2019/12/27
- */
-public class Lettuce {
+ */public class Lettuce {
 
-    Lettuce() { print("Lettuce()"); }
+    Lettuce() { print("Lettuce()\n"); }
 }
+

@@ -9,5 +9,5 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
  */
 public class Meal {
 
-    Meal() { print("Meal()"); }
+    Meal() { print("Meal()\n"); }
 }

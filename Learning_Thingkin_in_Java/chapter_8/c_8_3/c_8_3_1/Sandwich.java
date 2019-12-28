@@ -15,7 +15,7 @@ public class Sandwich extends PortableLunch{
 
     private Lettuce l = new Lettuce();
 
-    public Sandwich() { print("Sandwich()"); }
+    public Sandwich() { print("Sandwich()\n"); }
 
 
     public static void main(String[] args) {

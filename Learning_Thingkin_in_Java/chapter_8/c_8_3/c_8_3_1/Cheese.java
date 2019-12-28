@@ -8,5 +8,5 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
  * @Date: Create in 17:13 2019/12/27
  */
 public class Cheese {
-    Cheese() { print("Cheese()"); }
+    Cheese() { print("Cheese()\n"); }
 }
