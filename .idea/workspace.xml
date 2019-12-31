@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test_02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,12 +22,30 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+            <state relative-caret-position="231">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test_02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -48,8 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_9/c_9_8/A.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Parcel1.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Parcel2.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_2/Selector.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_2/Sequence.java" />
@@ -99,12 +116,14 @@
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_8/c_10_8_1/Caller.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_8/c_10_8_1/Callbacks.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test_01.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test_02.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="583" />
-    <option name="y" value="11" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="428" />
+    <option name="y" value="136" />
     <option name="width" value="974" />
     <option name="height" value="1072" />
   </component>
@@ -116,8 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,6 +168,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Test_02">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -213,20 +232,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiNestingAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_10.c_10_7.c_10_7_2.MultiNestingAccess" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter_10.c_10_7.c_10_7_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_10.c_10_1.Test" />
       <module name="Learning-Java" />
@@ -241,13 +246,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBed$Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_10.c_10_7.c_10_7_1.TestBed$Tester" />
+    <configuration name="Test_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_10.c_10_1.Test_01" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_10.c_10_7.c_10_7_1.*" />
+          <option name="PATTERN" value="chapter_10.c_10_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_10.c_10_1.Test_02" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_10.c_10_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +307,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test_02" />
+        <item itemvalue="Application.Test_01" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Callbacks" />
         <item itemvalue="Application.MultiImplementation" />
-        <item itemvalue="Application.MultiNestingAccess" />
-        <item itemvalue="Application.TestBed$Tester" />
       </list>
     </recent_temporary>
   </component>
@@ -312,12 +331,13 @@
       <workItem from="1577421370957" duration="11949000" />
       <workItem from="1577521131794" duration="5466000" />
       <workItem from="1577596422022" duration="17273000" />
-      <workItem from="1577683342408" duration="2146000" />
+      <workItem from="1577683342408" duration="2797000" />
+      <workItem from="1577783041605" duration="1668000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64262000" />
+    <option name="totallyTimeSpent" value="66581000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -338,7 +358,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.11353944" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.116204694" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39978677" />
@@ -352,7 +372,7 @@
       <window_info anchor="bottom" id="Problems" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Run" order="13" weight="0.4989339" />
+      <window_info anchor="bottom" id="Run" order="13" weight="0.5117271" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -400,28 +420,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Parcel2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding>
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#558#559#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_2/Selector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_2/Sequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -819,8 +817,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="43" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+        <state relative-caret-position="231">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_10/c_10_1/Test_02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
