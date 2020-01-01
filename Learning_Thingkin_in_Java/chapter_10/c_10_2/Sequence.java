@@ -8,8 +8,12 @@ package chapter_10.c_10_2;
 public class Sequence {
 
     private Object[] items;
+
     private int next = 0;
+
     public Sequence(int size) { items = new Object[size]; }
+
+//    在序列末增加新的Object
     public void add(Object x) {
         if(next < items.length)
             items[next++] = x;
@@ -20,9 +24,13 @@ public class Sequence {
         public Object current() { return items[i]; }
         public void next() { if(i < items.length) i++; }
     }
+
+//    获取Sequence中的每一个对象
     public Selector selector() {
         return new SequenceSelector();
     }
+
+
     public static void main(String[] args) {
         Sequence sequence = new Sequence(10);
         for(int i = 0; i < 10; i++)
