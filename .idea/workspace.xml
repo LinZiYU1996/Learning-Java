@@ -5,72 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/MapOfList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/PetMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_11/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_11/c_11_11_1/PriorityQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/CollectionSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/InterfaceVsIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/NonCollectionSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/PetSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/ArrayIsNotIterable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/EnvironmentVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/ForEachCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/IterableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/AdapterMethodIdiom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/ModifyingArraysAsList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/MultiIterableClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/ReversibleArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/AddingGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/AsListInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/Crusty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/Heavy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/Light.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/Powder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/Slush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/Snow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_4/PrintingContainers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ListFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Cymric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/EgyptianMau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Individual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/LiteralPetCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Manx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Mutt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/PetCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Rat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Rodent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/CrossContainerIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/SimpleIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/c_11_6_1/ListIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_7/LinkedListFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_8/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_8/StackCollision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_8/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/SetOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/SetOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/SortedSetOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/UniqueWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/ApplesAndOrangesWithGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/ApplesAndOrangesWithoutGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/Braeburn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/Fuji.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/Gala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/GenericsAndUpcasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/GrannySmith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/Orange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_2/SimpleCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/AsListInference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/CarUseElec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/CarUseGas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/TesLa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/Chinese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/GenericsAndUpcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/Janpanse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/People.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/MapOfList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/MapOfList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/AsListInference.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/AsListInference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_4/PrintingContainers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_4/PrintingContainers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ListFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ListFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_11/c_11_10/MapOfList.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_11/c_11_10/MapOfList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_11/c_11_3/AsListInference.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_11/c_11_3/AsListInference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_11/c_11_4/PrintingContainers.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_11/c_11_4/PrintingContainers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_11/c_11_5/ListFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_11/c_11_5/ListFeatures.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,54 +41,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/ReversibleArrayList.java">
+        <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/InterfaceVsIterator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/AdapterMethodIdiom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding>
-                <element signature="e#279#287#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/MultiIterableClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#628#629#0" expanded="true" />
-                <element signature="e#736#737#0" expanded="true" />
-                <element signature="e#997#1005#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="144">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/ModifyingArraysAsList.java">
+        <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/CollectionSequence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding>
-                <element signature="e#382#391#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -156,20 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ManWithCareer.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ManTeacher.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/WoManWithCareer.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/WoManDriver.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/Individual.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Person.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pet.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Dog.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Cat.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Rat.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Mouse.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/EgyptianMau.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Hamster.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Manx.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Rodent.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pug.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Mutt.java" />
@@ -177,7 +82,6 @@
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/LiteralPetCreator.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pets.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/PetCreator.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ListFeatures.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/SimpleIteration.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Individual.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/CrossContainerIteration.java" />
@@ -192,7 +96,6 @@
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/UniqueWords.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/Statistics.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/PetMap.java" />
-        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/MapOfList.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_11/QueueDemo.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_11/c_11_11_1/PriorityQueueDemo.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/InterfaceVsIterator.java" />
@@ -207,11 +110,27 @@
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/AdapterMethodIdiom.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/MultiIterableClass.java" />
         <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/ModifyingArraysAsList.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/ContainerMethods.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/GenericsAndUpcasting.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/Chinese.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/Janpanse.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/People.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/Car.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/CarUseElec.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/Audi.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/TesLa.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/AsListInference.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/CarUseGas.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/BMW.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/AsListInference.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_4/PrintingContainers.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ListFeatures.java" />
+        <option value="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/MapOfList.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="694" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -248,15 +167,7 @@
               <item name="Learning-Java" type="462c0819:PsiDirectoryNode" />
               <item name="Learning_Thingkin_in_Java" type="462c0819:PsiDirectoryNode" />
               <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
-              <item name="c_11_13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learning-Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Learning_Thingkin_in_Java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_11" type="462c0819:PsiDirectoryNode" />
-              <item name="c_11_13" type="462c0819:PsiDirectoryNode" />
-              <item name="c_11_13_1" type="462c0819:PsiDirectoryNode" />
+              <item name="c_11_12" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Learning-Java" type="b2602c69:ProjectViewProjectNode" />
@@ -293,20 +204,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdapterMethodIdiom">
+  <component name="RunManager" selected="Application.PrintingContainers">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdapterMethodIdiom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_13.c_11_13_1.AdapterMethodIdiom" />
+    <configuration name="AddingGroups" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_3.AddingGroups" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_11.c_11_13.c_11_13_1.*" />
+          <option name="PATTERN" value="chapter_11.c_11_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,13 +225,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_12.CollectionSequence" />
+    <configuration name="AsListInference (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_3.AsListInference" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_11.c_11_12.*" />
+          <option name="PATTERN" value="chapter_11.c_11_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,13 +239,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnvironmentVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_13.EnvironmentVariables" />
+    <configuration name="AsListInference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_3.demo.AsListInference" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_11.c_11_13.*" />
+          <option name="PATTERN" value="chapter_11.c_11_3.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -342,13 +253,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterableClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_13.IterableClass" />
+    <configuration name="GenericsAndUpcasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_11.chapter_11_1.demo.GenericsAndUpcasting" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_11.c_11_13.*" />
+          <option name="PATTERN" value="chapter_11.chapter_11_1.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -356,13 +267,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_11.QueueDemo" />
+    <configuration name="PrintingContainers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_11.c_11_4.PrintingContainers" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_11.c_11_11.*" />
+          <option name="PATTERN" value="chapter_11.c_11_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -403,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdapterMethodIdiom" />
-        <item itemvalue="Application.EnvironmentVariables" />
-        <item itemvalue="Application.IterableClass" />
-        <item itemvalue="Application.CollectionSequence" />
-        <item itemvalue="Application.QueueDemo" />
+        <item itemvalue="Application.PrintingContainers" />
+        <item itemvalue="Application.AsListInference" />
+        <item itemvalue="Application.AsListInference (1)" />
+        <item itemvalue="Application.AddingGroups" />
+        <item itemvalue="Application.GenericsAndUpcasting" />
       </list>
     </recent_temporary>
   </component>
@@ -430,12 +341,12 @@
       <workItem from="1577683342408" duration="2797000" />
       <workItem from="1577783041605" duration="1668000" />
       <workItem from="1577856134119" duration="10167000" />
-      <workItem from="1577945132864" duration="11005000" />
+      <workItem from="1577945132864" duration="23125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87753000" />
+    <option name="totallyTimeSpent" value="99873000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -447,10 +358,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
+    <frame x="694" y="0" width="974" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.39934355" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39606127" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -458,8 +369,8 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5053305" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32938644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5010661" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978677" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -483,36 +394,37 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="1" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.39934355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1945629" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.39978677" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="5" weight="0.32938644" />
-      <window_info anchor="bottom" id="Terminal" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32831" />
-      <window_info anchor="bottom" id="Problems" order="10" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Run" order="13" weight="0.5080732" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32938644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.50319827" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978677" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32938644" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32831" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,171 +436,150 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ManWithCareer.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/NonCollectionSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="294">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding>
-            <element signature="e#213#214#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/WoMan.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/China.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/WoManWithCareer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/WoManDriver.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/People.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
+          <caret line="7" selection-start-line="7" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ManTeacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Rodent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pug.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Rat.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/Chinese.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="16" />
+          <caret line="7" selection-start-line="7" selection-end-line="19" selection-end-column="1" />
           <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/EgyptianMau.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/Janpanse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="20" />
           <folding>
-            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Cymric.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/chapter_11_1/demo/GenericsAndUpcasting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/AddingGroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#257#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/CarUseGas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/BMW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/TesLa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/Audi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Dog.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/CarUseElec.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/demo/AsListInference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
           <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Hamster.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_3/AsListInference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_4/PrintingContainers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-          </folding>
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Manx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Mouse.java">
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Individual.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Mutt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="231">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="e#185#186#0" expanded="true" />
             <element signature="e#212#213#0" expanded="true" />
@@ -696,33 +587,112 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Manx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Rodent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Rat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Mouse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Mutt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/EgyptianMau.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Cymric.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Hamster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/PetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="51" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/LiteralPetCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#276#306#0" expanded="true" />
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="11" selection-start-line="11" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="32" />
+        <state relative-caret-position="504">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding>
             <element signature="e#279#280#0" expanded="true" />
             <element signature="e#321#322#0" expanded="true" />
@@ -734,89 +704,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Pet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/ListFeatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="78" column="24" selection-start-line="78" selection-start-column="24" selection-end-line="78" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_5/model/Individual.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1197">
+          <caret line="112" column="29" lean-forward="true" selection-start-line="112" selection-start-column="29" selection-end-line="112" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/CrossContainerIteration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/SimpleIteration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="14" column="50" selection-start-line="12" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/c_11_6_1/ListIteration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="168">
           <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_6/SimpleIteration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_7/LinkedListFeatures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="16" selection-end-line="45" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_8/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="252">
+          <caret line="12" column="50" selection-start-line="9" selection-end-line="19" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_8/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="126">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding>
             <element signature="e#217#225#0" expanded="true" />
           </folding>
@@ -825,11 +758,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_8/StackCollision.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#238#246#0" expanded="true" />
-            <element signature="e#552#560#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -837,232 +769,70 @@
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/SetOfInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#260#269#0" expanded="true" />
-          </folding>
+          <caret line="11" selection-start-line="11" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/SortedSetOfInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#272#281#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/UniqueWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        <state relative-caret-position="84">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_9/SetOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#358#366#0" expanded="true" />
-            <element signature="e#467#475#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="13" selection-start-line="13" selection-end-line="35" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/Statistics.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#352#369#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/PetMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#330#342#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_10/MapOfList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
+        <state relative-caret-position="126">
           <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#320#349#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_11/QueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#393#402#0" expanded="true" />
-            <element signature="e#673#684#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_11/c_11_11_1/PriorityQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#277#286#0" expanded="true" />
-            <element signature="e#1064#1072#0" expanded="true" />
-            <element signature="e#1340#1351#0" expanded="true" />
-            <element signature="e#1518#1529#0" expanded="true" />
-          </folding>
+        <state>
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/InterfaceVsIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#812#824#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="144">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/CollectionSequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/PetSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_12/NonCollectionSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/ForEachCollections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#234#242#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/IterableClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#619#620#0" expanded="true" />
-            <element signature="e#711#712#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/EnvironmentVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/ArrayIsNotIterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/ReversibleArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/AdapterMethodIdiom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="e#279#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/MultiIterableClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#736#737#0" expanded="true" />
-            <element signature="e#997#1005#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_11/c_11_13/c_11_13_1/ModifyingArraysAsList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="e#382#391#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>

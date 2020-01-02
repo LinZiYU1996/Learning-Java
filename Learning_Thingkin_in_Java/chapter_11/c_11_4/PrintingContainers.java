@@ -26,13 +26,21 @@ public class PrintingContainers {
         return map;
     }
     public static void main(String[] args) {
+
         print(fill(new ArrayList<String>()));
+
         print(fill(new LinkedList<String>()));
+
         print(fill(new HashSet<String>()));
+
         print(fill(new TreeSet<String>()));
+
         print(fill(new LinkedHashSet<String>()));
+
         print(fill(new HashMap<String,String>()));
+
         print(fill(new TreeMap<String,String>()));
+
         print(fill(new LinkedHashMap<String,String>()));
     }
 
