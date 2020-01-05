@@ -15,6 +15,8 @@ public class DynamicProxyHandler implements InvocationHandler {
         this.proxied = proxied;
     }
     public Object
+
+
     invoke(Object proxy, Method method, Object[] args)
             throws Throwable {
         System.out.println("**** proxy: " + proxy.getClass() +

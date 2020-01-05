@@ -9,9 +9,9 @@ import static chapter_6.c_6_1.c_6_1_3.Print.print;
  */
 public class RealObject implements Interface{
 
-    public void doSomething() { print("doSomething"); }
+    public void doSomething() { print(" RealObject doSomething"); }
     public void somethingElse(String arg) {
-        print("somethingElse " + arg);
+        print(" RealObject somethingElse " + arg);
     }
 
 
