@@ -16,11 +16,20 @@ public class CoffeeGenerator implements Generator<Coffee>, Iterable<Coffee>{
 
     private static Random rand = new Random(47);
 
+//    参数化的Generator接口确保nextO的返回值是参数的类型。CoffeeGenerator同时还实现了
+//    Iterable接口，所以它可以在循环语句中使用。不过，它还要一个“末端哨兵”来判断何时停止，
+//    这正是第二个构造器的功能。
 
     public CoffeeGenerator() {}
+
+
     // For iteration:
     private int size = 0;
+
+
     public CoffeeGenerator(int sz) { size = sz; }
+
+
     public Coffee next() {
         try {
             return (Coffee)
@@ -30,6 +39,9 @@ public class CoffeeGenerator implements Generator<Coffee>, Iterable<Coffee>{
             throw new RuntimeException(e);
         }
     }
+
+
+
     class CoffeeIterator implements Iterator<Coffee> {
         int count = size;
         public boolean hasNext() { return count > 0; }
@@ -41,9 +53,14 @@ public class CoffeeGenerator implements Generator<Coffee>, Iterable<Coffee>{
             throw new UnsupportedOperationException();
         }
     };
+
+
+
     public Iterator<Coffee> iterator() {
         return new CoffeeIterator();
     }
+
+
     public static void main(String[] args) {
         CoffeeGenerator gen = new CoffeeGenerator();
         for(int i = 0; i < 5; i++)

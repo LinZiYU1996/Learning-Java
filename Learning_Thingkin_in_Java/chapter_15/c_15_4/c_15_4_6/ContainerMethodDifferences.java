@@ -16,6 +16,8 @@ public class ContainerMethodDifferences {
             result.add(m.getName());
         return result;
     }
+
+
     static void interfaces(Class<?> type) {
         System.out.print("Interfaces in " +
                 type.getSimpleName() + ": ");
@@ -24,8 +26,13 @@ public class ContainerMethodDifferences {
             result.add(c.getSimpleName());
         System.out.println(result);
     }
+
+
     static Set<String> object = methodSet(Object.class);
+
+
     static { object.add("clone"); }
+
     static void
     difference(Class<?> superset, Class<?> subset) {
         System.out.print(superset.getSimpleName() +
@@ -36,6 +43,8 @@ public class ContainerMethodDifferences {
         System.out.println(comp);
         interfaces(superset);
     }
+
+
     public static void main(String[] args) {
         System.out.println("Collection: " +
                 methodSet(Collection.class));

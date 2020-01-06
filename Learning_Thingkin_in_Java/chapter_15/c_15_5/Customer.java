@@ -10,9 +10,13 @@ import chapter_15.c_15_3.Generator;
 public class Customer {
 
     private static long counter = 1;
+
     private final long id = counter++;
+
     private Customer() {}
+
     public String toString() { return "Customer " + id; }
+
     // A method to produce Generator objects:
     public static Generator<Customer> generator() {
         return new Generator<Customer>() {

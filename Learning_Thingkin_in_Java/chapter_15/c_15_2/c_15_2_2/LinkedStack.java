@@ -7,6 +7,7 @@ package chapter_15.c_15_2.c_15_2_2;
  */
 public class LinkedStack<T> {
 
+    //    内部类Node也是一个泛型，拥有自己的类型参数
     private static class Node<U> {
         U item;
         Node<U> next;
@@ -17,6 +18,8 @@ public class LinkedStack<T> {
         }
         boolean end() { return item == null && next == null; }
     }
+
+
     private Node<T> top = new Node<T>(); // End sentinel
     public void push(T item) {
         top = new Node<T>(item, top);

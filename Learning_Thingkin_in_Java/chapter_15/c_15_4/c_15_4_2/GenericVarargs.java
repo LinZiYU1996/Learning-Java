@@ -17,6 +17,8 @@ public class GenericVarargs {
             result.add(item);
         return result;
     }
+
+
     public static void main(String[] args) {
         List<String> ls = makeList("A");
         System.out.println(ls);
