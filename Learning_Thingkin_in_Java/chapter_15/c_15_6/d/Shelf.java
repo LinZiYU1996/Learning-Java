@@ -9,10 +9,16 @@ import java.util.ArrayList;
  * @Description:
  * @Date: Create in 21:19 2020/1/5
  */
+
+//货架
 public class Shelf extends ArrayList<Product> {
 
     public Shelf(int nProducts) {
+
+//        进行数据填充 把Product填充进当前Shelf实例
         Generators.fill(this, Product.generator, nProducts);
+
+
     }
 
 

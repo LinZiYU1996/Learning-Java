@@ -36,6 +36,7 @@ public class New {
     // Examples:
     public static void main(String[] args) {
         Map<String, List<String>> sls = New.map();
+        System.out.println(sls);
         List<String> ls = New.list();
         LinkedList<String> lls = New.lList();
         Set<String> ss = New.set();
