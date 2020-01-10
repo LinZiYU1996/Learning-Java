@@ -2,84 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/bag/b1/b8/GenericWriting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/bag/b1/b8/Holder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/bag/b1/b8/SuperTypeWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/bag/b1/b9/GenericReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/bag/b1/b9/UnboundedWildcard1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/bag/b1/b9/UnboundedWildcard2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l1/ByteSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l1/CaptureConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l1/FArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l1/ListOfInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l1/PrimitiveGenericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l2/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l2/FixedSizeStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l2/GenericCast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l2/ReadF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l2/ReadF2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l3/BasicHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l3/BasicOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l3/CRGWithBasicHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l3/Other.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l3/SelfBounded.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l3/Subtype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l3/UnconStrained.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l3/UseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l4/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l4/Covarin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l4/Deri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l4/DeriGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l4/Oridinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l5/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l5/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l5/GenericGetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l5/GenericReturnType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l5/GetApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l5/GetFruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l5/Getter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l6/Basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l6/BasicImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l6/Mixin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l6/SerialNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l6/SerialNumberImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l6/TimeStampedImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l6/TimeStamper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l7/AppleDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l7/BananaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l7/Basket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l7/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l7/Fly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l7/Original.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l7/Swing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l8/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l8/Full.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l8/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l8/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l8/TypeOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_15/lesson/l8/TypeTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d1/Alpha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d1/ArrayOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d1/ContainerComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d1/Matter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d2/ArrayOfGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d2/ClassParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d2/MethodParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d2/ParameterizedArrayType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d3/CountingGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d3/Generater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d3/RandomGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d3/TestGenerated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d4/CompType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d4/ComparingArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_16/demo/d4/CopyingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/CollectionDaraTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/CollectionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/FillingLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/Goverment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/StringAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d2/Letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d2/MapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d2/MapDataTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/Alphats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/CollectionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/HashType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/SetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/TreeType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/TypesForSets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/Unsupported.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/DequeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/QueueBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/SortedSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/ToDoList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_10/c_10_6/AnonymousConstructor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_10/c_10_6/AnonymousConstructor$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/c_17_5/Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/c_17_5/Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/c_17_5/Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/c_17_5/Lists.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,20 +80,20 @@
       <recent name="G:\Learing-Java\Learning-Java\Learning_Thingkin_in_Java\chapter_14\c_14_3\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComparingArrays">
+  <component name="RunManager" selected="Application.DequeTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_16.demo.d4.ComparingArrays" />
+    <configuration name="DequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d4.DequeTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_16.demo.d4.*" />
+          <option name="PATTERN" value="chapter_17.demo.d4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,13 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_16.demo.d4.CopyingArrays" />
+    <configuration name="QueueBehavior" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d4.QueueBehavior" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_16.demo.d4.*" />
+          <option name="PATTERN" value="chapter_17.demo.d4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,13 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FillingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_16.c_16_6.c_16_6_1.FillingArrays" />
+    <configuration name="SortedSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d4.SortedSetDemo" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_16.c_16_6.c_16_6_1.*" />
+          <option name="PATTERN" value="chapter_17.demo.d4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,13 +129,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_16.demo.d3.Main" />
+    <configuration name="ToDoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d4.ToDoList" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_16.demo.d3.*" />
+          <option name="PATTERN" value="chapter_17.demo.d4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,13 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_16.demo.d3.Test" />
+    <configuration name="TypesForSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d3.TypesForSets" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_16.demo.d3.*" />
+          <option name="PATTERN" value="chapter_17.demo.d3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComparingArrays" />
-        <item itemvalue="Application.CopyingArrays" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.FillingArrays" />
+        <item itemvalue="Application.DequeTest" />
+        <item itemvalue="Application.ToDoList" />
+        <item itemvalue="Application.QueueBehavior" />
+        <item itemvalue="Application.SortedSetDemo" />
+        <item itemvalue="Application.TypesForSets" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +241,9 @@
       <workItem from="1578487791176" duration="3514000" />
       <workItem from="1578491328058" duration="2915000" />
       <workItem from="1578534833974" duration="3416000" />
-      <workItem from="1578538298099" duration="18595000" />
+      <workItem from="1578538298099" duration="19306000" />
+      <workItem from="1578620180880" duration="307000" />
+      <workItem from="1578620512251" duration="10857000" />
     </task>
     <servers />
   </component>
@@ -325,30 +273,30 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1578580335740">
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1578666888404">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578580335740" />
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578666888404" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="1493" height="371" key="GridCell.Tab.0.bottom" timestamp="1578579993529">
+    <state width="1493" height="374" key="GridCell.Tab.0.bottom" timestamp="1578666985851">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="371" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578579993529" />
-    <state width="1493" height="371" key="GridCell.Tab.0.center" timestamp="1578579993529">
+    <state width="1493" height="374" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578666985851" />
+    <state width="1493" height="374" key="GridCell.Tab.0.center" timestamp="1578666985851">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="371" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578579993529" />
-    <state width="1493" height="371" key="GridCell.Tab.0.left" timestamp="1578579993529">
+    <state width="1493" height="374" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578666985851" />
+    <state width="1493" height="374" key="GridCell.Tab.0.left" timestamp="1578666985851">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="371" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578579993529" />
-    <state width="1493" height="371" key="GridCell.Tab.0.right" timestamp="1578579993529">
+    <state width="1493" height="374" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578666985851" />
+    <state width="1493" height="374" key="GridCell.Tab.0.right" timestamp="1578666985851">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="371" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578579993529" />
+    <state width="1493" height="374" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578666985851" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1578536455977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
