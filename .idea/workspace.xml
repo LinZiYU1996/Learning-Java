@@ -2,30 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/CollectionDaraTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/CollectionData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/FillingLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/Goverment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d1/StringAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d2/Letter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d2/MapData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d2/MapDataTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d2/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/Alphats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/CollectionMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/HashType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/SetType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/TreeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/TypesForSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d3/Unsupported.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/Deque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/DequeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/QueueBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/SortedSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d4/ToDoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d5/AssociativeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d5/Maps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d5/SortedMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d6/Groundhog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d6/Groundhog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d6/Prediction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d6/SpringDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d6/SpringDetector2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d7/MapEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d7/SlowMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d8/ListPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d8/ListSortSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d8/MapPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d8/SetPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d8/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d8/TestParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d8/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/demo/d8/Utilities.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/c_17_5/Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/Learning_Thingkin_in_Java/chapter_17/c_17_5/Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/c_17_5/Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/c_17_5/Lists.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,20 +75,20 @@
       <recent name="G:\Learing-Java\Learning-Java\Learning_Thingkin_in_Java\chapter_14\c_14_3\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DequeTest">
+  <component name="RunManager" selected="Application.ListSortSearch">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DequeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d4.DequeTest" />
+    <configuration name="ListPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d8.ListPerformance" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_17.demo.d4.*" />
+          <option name="PATTERN" value="chapter_17.demo.d8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,13 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueBehavior" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d4.QueueBehavior" />
+    <configuration name="ListSortSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d8.ListSortSearch" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_17.demo.d4.*" />
+          <option name="PATTERN" value="chapter_17.demo.d8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d4.SortedSetDemo" />
+    <configuration name="MapPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d8.MapPerformance" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_17.demo.d4.*" />
+          <option name="PATTERN" value="chapter_17.demo.d8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToDoList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d4.ToDoList" />
+    <configuration name="SetPerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d8.SetPerformance" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_17.demo.d4.*" />
+          <option name="PATTERN" value="chapter_17.demo.d8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,13 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypesForSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d3.TypesForSets" />
+    <configuration name="Utilities" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_17.demo.d8.Utilities" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_17.demo.d3.*" />
+          <option name="PATTERN" value="chapter_17.demo.d8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DequeTest" />
-        <item itemvalue="Application.ToDoList" />
-        <item itemvalue="Application.QueueBehavior" />
-        <item itemvalue="Application.SortedSetDemo" />
-        <item itemvalue="Application.TypesForSets" />
+        <item itemvalue="Application.ListSortSearch" />
+        <item itemvalue="Application.Utilities" />
+        <item itemvalue="Application.MapPerformance" />
+        <item itemvalue="Application.SetPerformance" />
+        <item itemvalue="Application.ListPerformance" />
       </list>
     </recent_temporary>
   </component>
@@ -244,6 +239,8 @@
       <workItem from="1578538298099" duration="19306000" />
       <workItem from="1578620180880" duration="307000" />
       <workItem from="1578620512251" duration="10857000" />
+      <workItem from="1578727702823" duration="3905000" />
+      <workItem from="1578731636610" duration="3597000" />
     </task>
     <servers />
   </component>
@@ -273,30 +270,30 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1578666888404">
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1578731698281">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578666888404" />
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578731698281" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="1493" height="374" key="GridCell.Tab.0.bottom" timestamp="1578666985851">
+    <state width="1493" height="640" key="GridCell.Tab.0.bottom" timestamp="1578754066659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="374" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578666985851" />
-    <state width="1493" height="374" key="GridCell.Tab.0.center" timestamp="1578666985851">
+    <state width="1493" height="640" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578754066659" />
+    <state width="1493" height="640" key="GridCell.Tab.0.center" timestamp="1578754066659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="374" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578666985851" />
-    <state width="1493" height="374" key="GridCell.Tab.0.left" timestamp="1578666985851">
+    <state width="1493" height="640" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578754066659" />
+    <state width="1493" height="640" key="GridCell.Tab.0.left" timestamp="1578754066659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="374" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578666985851" />
-    <state width="1493" height="374" key="GridCell.Tab.0.right" timestamp="1578666985851">
+    <state width="1493" height="640" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578754066659" />
+    <state width="1493" height="640" key="GridCell.Tab.0.right" timestamp="1578754066659">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="374" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578666985851" />
+    <state width="1493" height="640" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578754066659" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1578536455977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
