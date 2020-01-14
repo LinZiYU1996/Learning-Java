@@ -2,36 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_1/Employee_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_1/InitialValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_1/Initialization_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_1/Initialization_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_1/Initialization_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_1/StaticInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_1/c_1_1_1/Initialization_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learning-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_2/D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_2/D3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_2/D4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_2/D5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_2/Demo_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/HideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/Ostrich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/Sub_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_3/Wolf.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_10/c_10_6/AnonymousConstructor$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_10/c_10_6/AnonymousConstructor$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_21/c_21_2/c_21_2_9/InnerThread2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_21/c_21_2/c_21_2_9/InnerThread2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_21/c_21_2/c_21_2_9/ThreadMethod$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_21/c_21_2/c_21_2_9/ThreadMethod$1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +65,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,20 +77,20 @@
       <recent name="G:\Learing-Java\Learning-Java\Learning_Thingkin_in_Java\chapter_14\c_14_3\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Initialization_4">
+  <component name="RunManager" selected="Application.Wolf">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Initialization_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_1.Initialization_1" />
+    <configuration name="HideTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_3.HideTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_1.*" />
+          <option name="PATTERN" value="C_1.c_1_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Initialization_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_1.Initialization_2" />
+    <configuration name="Ostrich" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_3.Ostrich" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_1.*" />
+          <option name="PATTERN" value="C_1.c_1_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,13 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Initialization_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_1.Initialization_3" />
+    <configuration name="Sub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_3.Sub" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_1.*" />
+          <option name="PATTERN" value="C_1.c_1_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Initialization_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_1.c_1_1_1.Initialization_4" />
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_3.SubClass" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_1.c_1_1_1.*" />
+          <option name="PATTERN" value="C_1.c_1_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,13 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_1.StaticInitialization" />
+    <configuration name="Wolf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_3.Wolf" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_1.*" />
+          <option name="PATTERN" value="C_1.c_1_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Initialization_4" />
-        <item itemvalue="Application.Initialization_3" />
-        <item itemvalue="Application.Initialization_2" />
-        <item itemvalue="Application.Initialization_1" />
-        <item itemvalue="Application.StaticInitialization" />
+        <item itemvalue="Application.Wolf" />
+        <item itemvalue="Application.Sub" />
+        <item itemvalue="Application.HideTest" />
+        <item itemvalue="Application.SubClass" />
+        <item itemvalue="Application.Ostrich" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +246,7 @@
       <workItem from="1578795975504" duration="10309000" />
       <workItem from="1578828876060" duration="8949000" />
       <workItem from="1578879742781" duration="17076000" />
+      <workItem from="1578965859086" duration="7881000" />
     </task>
     <servers />
   </component>
@@ -277,34 +267,34 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1578925360080">
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1578967451695">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578925360080" />
+    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="1493" height="301" key="GridCell.Tab.0.bottom" timestamp="1578927738660">
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom" timestamp="1578987655579">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="301" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578927738660" />
-    <state width="1493" height="301" key="GridCell.Tab.0.center" timestamp="1578927738660">
+    <state width="1493" height="162" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578987655579" />
+    <state width="1493" height="162" key="GridCell.Tab.0.center" timestamp="1578987655579">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="301" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578927738660" />
-    <state width="1493" height="301" key="GridCell.Tab.0.left" timestamp="1578927738660">
+    <state width="1493" height="162" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578987655579" />
+    <state width="1493" height="162" key="GridCell.Tab.0.left" timestamp="1578987655579">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="301" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578927738660" />
-    <state width="1493" height="301" key="GridCell.Tab.0.right" timestamp="1578927738660">
+    <state width="1493" height="162" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578987655579" />
+    <state width="1493" height="162" key="GridCell.Tab.0.right" timestamp="1578987655579">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="301" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578927738660" />
-    <state x="249" y="7" key="SettingsEditor" timestamp="1578921410271">
+    <state width="1493" height="162" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578987655579" />
+    <state x="249" y="7" key="SettingsEditor" timestamp="1578984419069">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578921410271" />
+    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578984419069" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1578536455977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
