@@ -2,52 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/ConversionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/InstanceofTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/c_1_4_1/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/c_1_4_1/InheritTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/c_1_4_1/Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/c_1_4_1/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/c_1_4_1/VirtualDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_4/c_1_4_1/d1/CompositeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_5/FinalErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_5/FinalLocalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_5/FinalLocalVariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_5/FinalMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_5/FinalReferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_5/FinalReplaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_5/FinalVariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_5/StringJoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_6/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_6/InterfaceExtendsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_6/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_6/OutputFieldTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_6/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_6/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_6/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_6/d1/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/ATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/AccessStaticInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/AnonymousInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/AnonymousTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/CreateInnerInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/CreateStaticInnerInstance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/DiscernVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/InnerNoStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/LocalInnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/StaticInnerClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/StaticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,20 +75,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Printer">
+  <component name="RunManager" selected="Application.ATest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_6.Circle" />
+    <configuration name="ATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.ATest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_6.*" />
+          <option name="PATTERN" value="C_1.c_1_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,13 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalReplaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_5.FinalReplaceTest" />
+    <configuration name="AnonymousInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.AnonymousInner" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_5.*" />
+          <option name="PATTERN" value="C_1.c_1_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,13 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceExtendsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_6.InterfaceExtendsTest" />
+    <configuration name="AnonymousTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.AnonymousTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_6.*" />
+          <option name="PATTERN" value="C_1.c_1_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,13 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_6.Printer" />
+    <configuration name="CreateStaticInnerInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.CreateStaticInnerInstance" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_6.*" />
+          <option name="PATTERN" value="C_1.c_1_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,13 +138,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringJoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_5.StringJoinTest" />
+    <configuration name="LocalInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.LocalInnerClass" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_5.*" />
+          <option name="PATTERN" value="C_1.c_1_7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Printer" />
-        <item itemvalue="Application.InterfaceExtendsTest" />
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.StringJoinTest" />
-        <item itemvalue="Application.FinalReplaceTest" />
+        <item itemvalue="Application.ATest" />
+        <item itemvalue="Application.AnonymousInner" />
+        <item itemvalue="Application.AnonymousTest" />
+        <item itemvalue="Application.LocalInnerClass" />
+        <item itemvalue="Application.CreateStaticInnerInstance" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +245,8 @@
       <workItem from="1578828876060" duration="8949000" />
       <workItem from="1578879742781" duration="17076000" />
       <workItem from="1578965859086" duration="16128000" />
-      <workItem from="1579004010135" duration="5906000" />
+      <workItem from="1579004010135" duration="6580000" />
+      <workItem from="1579051996504" duration="5700000" />
     </task>
     <servers />
   </component>
@@ -306,22 +275,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="1493" height="367" key="GridCell.Tab.0.bottom" timestamp="1579011638554">
+    <state width="1493" height="367" key="GridCell.Tab.0.bottom" timestamp="1579058709318">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579011638554" />
-    <state width="1493" height="367" key="GridCell.Tab.0.center" timestamp="1579011638554">
+    <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
+    <state width="1493" height="367" key="GridCell.Tab.0.center" timestamp="1579058709318">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579011638554" />
-    <state width="1493" height="367" key="GridCell.Tab.0.left" timestamp="1579011638554">
+    <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
+    <state width="1493" height="367" key="GridCell.Tab.0.left" timestamp="1579058709318">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579011638554" />
-    <state width="1493" height="367" key="GridCell.Tab.0.right" timestamp="1579011638554">
+    <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
+    <state width="1493" height="367" key="GridCell.Tab.0.right" timestamp="1579058709318">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579011638554" />
+    <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1578984419069">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
