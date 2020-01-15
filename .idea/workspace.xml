@@ -2,19 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/ATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/AccessStaticInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/AnonymousInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/AnonymousTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/CreateInnerInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/CreateStaticInnerInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/DiscernVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/InnerNoStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/LocalInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/StaticInnerClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_7/StaticTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/ArrayErr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/DiamondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/GenericList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/ArrayToCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Canvas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/ErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/GenericConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/GenericDiamondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/GenericMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/InferenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/MyUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/RightTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_2/ErasureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_2/ErasureTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_2/GenericAndArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/CollectionEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/CollectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/ForeachTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/HashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/IteratorEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/IteratorErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/IteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/PredicateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,20 +96,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ATest">
+  <component name="RunManager" selected="Application.HashSetTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.ATest" />
+    <configuration name="ForeachTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.ForeachTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_7.*" />
+          <option name="PATTERN" value="C_1.c_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,13 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymousInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.AnonymousInner" />
+    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.HashSetTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_7.*" />
+          <option name="PATTERN" value="C_1.c_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnonymousTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.AnonymousTest" />
+    <configuration name="IteratorEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.IteratorEach" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_7.*" />
+          <option name="PATTERN" value="C_1.c_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,13 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateStaticInnerInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.CreateStaticInnerInstance" />
+    <configuration name="IteratorErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.IteratorErrorTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_7.*" />
+          <option name="PATTERN" value="C_1.c_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,13 +159,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalInnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_7.LocalInnerClass" />
+    <configuration name="PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.PredicateTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_7.*" />
+          <option name="PATTERN" value="C_1.c_1_9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ATest" />
-        <item itemvalue="Application.AnonymousInner" />
-        <item itemvalue="Application.AnonymousTest" />
-        <item itemvalue="Application.LocalInnerClass" />
-        <item itemvalue="Application.CreateStaticInnerInstance" />
+        <item itemvalue="Application.HashSetTest" />
+        <item itemvalue="Application.PredicateTest" />
+        <item itemvalue="Application.ForeachTest" />
+        <item itemvalue="Application.IteratorEach" />
+        <item itemvalue="Application.IteratorErrorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +267,7 @@
       <workItem from="1578879742781" duration="17076000" />
       <workItem from="1578965859086" duration="16128000" />
       <workItem from="1579004010135" duration="6580000" />
-      <workItem from="1579051996504" duration="5700000" />
+      <workItem from="1579051996504" duration="20053000" />
     </task>
     <servers />
   </component>
@@ -275,22 +296,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="1493" height="367" key="GridCell.Tab.0.bottom" timestamp="1579058709318">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1877" height="472" key="GridCell.Tab.0.bottom" timestamp="1579100091969">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1493" height="367" key="GridCell.Tab.0.center" timestamp="1579058709318">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1877" height="472" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579100091969" />
+    <state width="1877" height="472" key="GridCell.Tab.0.center" timestamp="1579100091968">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1493" height="367" key="GridCell.Tab.0.left" timestamp="1579058709318">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1877" height="472" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579100091968" />
+    <state width="1877" height="472" key="GridCell.Tab.0.left" timestamp="1579100091968">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1493" height="367" key="GridCell.Tab.0.right" timestamp="1579058709318">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state width="1877" height="472" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579100091968" />
+    <state width="1877" height="472" key="GridCell.Tab.0.right" timestamp="1579100091968">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
+    <state width="1877" height="472" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579100091968" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1578984419069">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
