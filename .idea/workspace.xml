@@ -2,41 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/A1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/A2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/ArrayErr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/DiamondTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/GenericList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/ArrayToCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Canvas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/ErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/GenericConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/GenericDiamondTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/GenericMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/InferenceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/MyUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/RightTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_1/TreeSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_2/ErasureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_2/ErasureTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_8/c_1_8_2/GenericAndArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/CollectionEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/CollectionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/ForeachTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/HashSetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/IteratorEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/IteratorErrorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/PredicateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/HashSetTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/EnumSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/EnumSetTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/FixedSizeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/LinkedHashSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/ListTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/ListTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/TreeSetErrorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/TreeSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/TreeSetTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/TreeSetTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_1/TreeSetTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_2/ArrayDequeQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_2/ArrayDequeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_2/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_2/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_2/MapTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/C_2/c_2_2/PriorityQueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/HashSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/C_1/c_1_9/HashSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/C_1/c_1_9/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/C_1/c_1_9/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/C_1/c_1_9/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/C_1/c_1_9/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/C_1/c_1_9/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/C_1/c_1_9/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/C_1/c_1_9/HashSetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/C_1/c_1_9/HashSetTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,20 +86,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashSetTest">
+  <component name="RunManager" selected="Application.MapTest2">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForeachTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.ForeachTest" />
+    <configuration name="ArrayDequeQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_2.c_2_2.ArrayDequeQueue" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_9.*" />
+          <option name="PATTERN" value="C_2.c_2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.HashSetTest" />
+    <configuration name="ArrayDequeStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_2.c_2_2.ArrayDequeStack" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_9.*" />
+          <option name="PATTERN" value="C_2.c_2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,13 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.IteratorEach" />
+    <configuration name="LinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_2.c_2_2.LinkedListTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_9.*" />
+          <option name="PATTERN" value="C_2.c_2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,13 +135,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IteratorErrorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.IteratorErrorTest" />
+    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_2.c_2_2.MapTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_9.*" />
+          <option name="PATTERN" value="C_2.c_2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,13 +149,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="C_1.c_1_9.PredicateTest" />
+    <configuration name="MapTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C_2.c_2_2.MapTest2" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="C_1.c_1_9.*" />
+          <option name="PATTERN" value="C_2.c_2_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetTest" />
-        <item itemvalue="Application.PredicateTest" />
-        <item itemvalue="Application.ForeachTest" />
-        <item itemvalue="Application.IteratorEach" />
-        <item itemvalue="Application.IteratorErrorTest" />
+        <item itemvalue="Application.MapTest2" />
+        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.LinkedListTest" />
+        <item itemvalue="Application.ArrayDequeQueue" />
+        <item itemvalue="Application.ArrayDequeStack" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +258,7 @@
       <workItem from="1578965859086" duration="16128000" />
       <workItem from="1579004010135" duration="6580000" />
       <workItem from="1579051996504" duration="20053000" />
+      <workItem from="1579139606456" duration="4991000" />
     </task>
     <servers />
   </component>
@@ -288,34 +279,35 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1578967451695">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1579139800297">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1579139800297" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="1877" height="472" key="GridCell.Tab.0.bottom" timestamp="1579100091969">
+    <state width="1877" height="147" key="GridCell.Tab.0.bottom" timestamp="1579144457251">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="472" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579100091969" />
-    <state width="1877" height="472" key="GridCell.Tab.0.center" timestamp="1579100091968">
+    <state width="1877" height="147" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579144457251" />
+    <state width="1877" height="147" key="GridCell.Tab.0.center" timestamp="1579144457251">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="472" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579100091968" />
-    <state width="1877" height="472" key="GridCell.Tab.0.left" timestamp="1579100091968">
+    <state width="1877" height="147" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579144457251" />
+    <state width="1877" height="147" key="GridCell.Tab.0.left" timestamp="1579144457251">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="472" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579100091968" />
-    <state width="1877" height="472" key="GridCell.Tab.0.right" timestamp="1579100091968">
+    <state width="1877" height="147" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579144457251" />
+    <state width="1877" height="147" key="GridCell.Tab.0.right" timestamp="1579144457251">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="472" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579100091968" />
+    <state width="1877" height="147" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579144457251" />
     <state x="249" y="7" key="SettingsEditor" timestamp="1578984419069">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
