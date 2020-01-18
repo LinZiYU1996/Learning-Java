@@ -2,59 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c1/c_1_1/interruptTest_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c1/c_1_1/interruptTest_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c1/c_1_1/interruptTest_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c1/c_1_1/interruptTest_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c1/c_1_1/interruptTest_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c1/c_1_1/interruptTest_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_1/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_1/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_1/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_1/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_1/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_1/T6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_1/T7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_1/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_1/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_1/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_1/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_1/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_2/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_2/FightQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_2/FightQueryTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_3/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_3/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_3/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_3/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c2/c_2_2/c_2_2_3/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_1/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_1/Ta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_1/Tb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/Receiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/Sender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a/EventClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a/EventQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a1/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a1/C_thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a1/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a1/P_thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a1/ValueObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a2/C_thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a2/P.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a2/P_thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a3/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a3/C_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a3/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a3/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a3/P_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a3/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a4/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a4/C_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a4/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a4/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a4/P_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a4/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a5/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a5/C_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a5/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a5/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a5/P_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a5/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a6/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a6/C_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a6/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a6/P.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a6/P_thread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a6/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a7/BackupA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a7/BackupB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a7/DBTools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_2/a7/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a1/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a1/SelfPrivateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a1/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a1/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a10/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a10/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a10/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a10/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a11/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a11/PublicVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a11/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a11/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a11/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a11/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a11/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/AThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/BThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/b12/AThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/b12/BThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/b12/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/b12/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a13/Change_Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a13/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a13/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a13/Thread_A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a13/Thread_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a2/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a2/SelfPrivateNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a2/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a2/ThreadB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a3/Syncthread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a3/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a4/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a5/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a6/CommonVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a6/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a6/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a7/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a8/AddOpertation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a8/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a8/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a9/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a9/T2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +115,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyNotes/C_2/c_2_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_3/a12/b12" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -103,61 +124,48 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_3\a12\b12" />
+      <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_3\a2" />
+      <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a6" />
+      <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a5" />
+      <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="C_1.c_1_6.d1" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\learn-java\Learning-Java\MyNotes\C_2\c_2_4" />
-      <recent name="G:\Learing-Java\Learning-Java\Learning_Thingkin_in_Java\chapter_15\c_15_2\demo\d3" />
-      <recent name="G:\Learing-Java\Learning-Java\Learning_Thingkin_in_Java\chapter_15\c_15_2\demo\d2" />
-      <recent name="G:\Learing-Java\Learning-Java\Learning_Thingkin_in_Java\chapter_14\c_14_3\model" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Run (1)">
+  <component name="RunManager" selected="Application.Run (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EventClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_2.a.EventClient" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_2.a.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_2.Main" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_2.a2.Run" />
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_3.a12.b12.Run" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_2.a2.*" />
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_3.a12.b12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_3.a13.Run" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_3.a13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +174,12 @@
       </method>
     </configuration>
     <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_2.a1.Run" />
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_3.a12.Run" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_2.a1.*" />
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_3.a12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,12 +188,26 @@
       </method>
     </configuration>
     <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_2.T2" />
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_3.a11.T2" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_2.*" />
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_3.a11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_3.a11.Test" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_3.a11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Run (2)" />
         <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
-        <item itemvalue="Application.EventClient" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.T2" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -290,6 +312,7 @@
       <workItem from="1579051996504" duration="20053000" />
       <workItem from="1579139606456" duration="22796000" />
       <workItem from="1579225323549" duration="20738000" />
+      <workItem from="1579311905724" duration="16262000" />
     </task>
     <servers />
   </component>
@@ -310,35 +333,51 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1579271819906">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1579350572552">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1579271819906" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1579350572552" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="914" height="668" key="GridCell.Tab.0.bottom" timestamp="1579273089061">
+    <state width="1304" height="190" key="GridCell.Tab.0.bottom" timestamp="1579350601617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="668" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579273089061" />
-    <state width="914" height="668" key="GridCell.Tab.0.center" timestamp="1579273089061">
+    <state width="1304" height="190" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579350601617" />
+    <state width="1304" height="190" key="GridCell.Tab.0.center" timestamp="1579350601617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="668" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579273089061" />
-    <state width="914" height="668" key="GridCell.Tab.0.left" timestamp="1579273089061">
+    <state width="1304" height="190" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579350601617" />
+    <state width="1304" height="190" key="GridCell.Tab.0.left" timestamp="1579350601617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="668" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579273089061" />
-    <state width="914" height="668" key="GridCell.Tab.0.right" timestamp="1579273089061">
+    <state width="1304" height="190" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579350601617" />
+    <state width="1304" height="190" key="GridCell.Tab.0.right" timestamp="1579350601617">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="668" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579273089061" />
+    <state width="1304" height="190" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579350601617" />
+    <state width="914" height="668" key="GridCell.Tab.1.bottom" timestamp="1579313052327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="668" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579313052327" />
+    <state width="914" height="668" key="GridCell.Tab.1.center" timestamp="1579313052327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="668" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579313052327" />
+    <state width="914" height="668" key="GridCell.Tab.1.left" timestamp="1579313052327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="668" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579313052327" />
+    <state width="914" height="668" key="GridCell.Tab.1.right" timestamp="1579313052327">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="914" height="668" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579313052327" />
     <state x="311" y="9" key="SettingsEditor" timestamp="1579255353065">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
