@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/AThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/CyclicBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/MarathonSimulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A2/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A2/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A2/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A2/SemaphoreThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A2/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A2/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A3/NonReentrantLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A4/LockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A4/MyReentrantLock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,15 +71,15 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
+  <component name="RunManager" selected="Application.LockTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountDownLatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A1.CountDownLatchTest" />
+    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A1.CyclicBarrierTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -109,13 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A1.CyclicBarrierTest" />
+    <configuration name="LockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A4.LockTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A1.*" />
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LockTest" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.SemaphoreThread" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.CyclicBarrierTest" />
-        <item itemvalue="Application.CountDownLatchTest" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +247,8 @@
       <workItem from="1579225323549" duration="20738000" />
       <workItem from="1579311905724" duration="22344000" />
       <workItem from="1579398243721" duration="18563000" />
-      <workItem from="1579483860354" duration="18918000" />
+      <workItem from="1579483860354" duration="19746000" />
+      <workItem from="1579613264441" duration="2888000" />
     </task>
     <servers />
   </component>
@@ -294,26 +278,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="914" height="610" key="GridCell.Tab.0.bottom" timestamp="1579503611485">
+    <state width="1877" height="610" key="GridCell.Tab.0.bottom" timestamp="1579614338951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="610" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579503611485" />
-    <state width="914" height="610" key="GridCell.Tab.0.center" timestamp="1579503611485">
+    <state width="1877" height="610" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579614338951" />
+    <state width="1877" height="610" key="GridCell.Tab.0.center" timestamp="1579614338951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="610" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579503611485" />
-    <state width="914" height="610" key="GridCell.Tab.0.left" timestamp="1579503611485">
+    <state width="1877" height="610" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579614338951" />
+    <state width="1877" height="610" key="GridCell.Tab.0.left" timestamp="1579614338951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="610" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579503611485" />
-    <state width="914" height="610" key="GridCell.Tab.0.right" timestamp="1579503611485">
+    <state width="1877" height="610" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579614338951" />
+    <state width="1877" height="610" key="GridCell.Tab.0.right" timestamp="1579614338951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="610" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579503611485" />
+    <state width="1877" height="610" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579614338951" />
     <state width="914" height="668" key="GridCell.Tab.1.bottom" timestamp="1579313052327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
