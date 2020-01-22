@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A4/LockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A4/MyReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A4/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_1/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_1/Test_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_1/Thread_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_1/Thread_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_2/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_2/T_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_2/T_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/thread/c3/c_3_1/c_3_1_7/A5/A5_2/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +61,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -71,23 +79,9 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LockTest">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CyclicBarrierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A1.CyclicBarrierTest" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,34 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A2.Run" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SemaphoreThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A2.SemaphoreThread" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A3.Test" />
       <module name="Learning-Java" />
@@ -141,6 +107,48 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A5.A5_2.Test" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A5.A5_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A5.A5_1.Test" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A5.A5_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.c3.c_3_1.c_3_1_7.A5.A5_1.Test_2" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.c3.c_3_1.c_3_1_7.A5.A5_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test_2" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.LockTest" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.SemaphoreThread" />
-        <item itemvalue="Application.Run" />
-        <item itemvalue="Application.CyclicBarrierTest" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +256,9 @@
       <workItem from="1579311905724" duration="22344000" />
       <workItem from="1579398243721" duration="18563000" />
       <workItem from="1579483860354" duration="19746000" />
-      <workItem from="1579613264441" duration="2888000" />
+      <workItem from="1579613264441" duration="3701000" />
+      <workItem from="1579659111970" duration="505000" />
+      <workItem from="1579659629503" duration="9959000" />
     </task>
     <servers />
   </component>
@@ -269,35 +279,35 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1579502773097">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1579696735801">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1579502773097" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1579696735801" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state width="1877" height="610" key="GridCell.Tab.0.bottom" timestamp="1579614338951">
+    <state width="914" height="609" key="GridCell.Tab.0.bottom" timestamp="1579696828101">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="610" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579614338951" />
-    <state width="1877" height="610" key="GridCell.Tab.0.center" timestamp="1579614338951">
+    <state width="914" height="609" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579696828101" />
+    <state width="914" height="609" key="GridCell.Tab.0.center" timestamp="1579696828101">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="610" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579614338951" />
-    <state width="1877" height="610" key="GridCell.Tab.0.left" timestamp="1579614338951">
+    <state width="914" height="609" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579696828101" />
+    <state width="914" height="609" key="GridCell.Tab.0.left" timestamp="1579696828101">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="610" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579614338951" />
-    <state width="1877" height="610" key="GridCell.Tab.0.right" timestamp="1579614338951">
+    <state width="914" height="609" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579696828101" />
+    <state width="914" height="609" key="GridCell.Tab.0.right" timestamp="1579696828101">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="610" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579614338951" />
+    <state width="914" height="609" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579696828101" />
     <state width="914" height="668" key="GridCell.Tab.1.bottom" timestamp="1579313052327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -314,11 +324,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="914" height="668" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579313052327" />
-    <state x="311" y="9" key="SettingsEditor" timestamp="1579255353065">
+    <state x="311" y="9" key="SettingsEditor" timestamp="1579618227521">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578984419069" />
-    <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579255353065" />
+    <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579618227521" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1578536455977">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
