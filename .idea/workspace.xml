@@ -2,24 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_3/c_6_3_1/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_3/c_6_3_2/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_3/c_6_3_2/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_3/c_6_3_2/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_3/c_6_3_2/M4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_3/c_6_3_2/M5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_4/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_4/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_4/c_6_4_1/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_4/c_6_4_1/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_4/c_6_4_1/Test_6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_4/c_6_4_2/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_5/c_6_5_2/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_5/c_6_5_2/ToListCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/PrimeNumbersCollector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_1/A/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_1/A/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_1/A/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_1/A/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_1/c_10_1_1/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_1/c_10_1_1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_2/A/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_2/A/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_2/A/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_3/c_10_3_3/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_3/c_10_3_5/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_4/c_10_4_1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_10/c_10_4/c_10_4_2/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_1_2/A1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_1_2/A1/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_1_2/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_1_3/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_1/IsAllLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_1/IsNumeric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_1/ValidationStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_1/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_2/OnlineBanking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_3/Feed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_3/Guardian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_3/LeMonde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_3/NYTimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_3/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_3/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_4/HeaderTextProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_4/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_4/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_4/ProcessingObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_4/SpellCheckerProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_5/Bond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_5/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_5/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_5/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_8/c_8_1/c_8_2/c_8_2_5/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_1/c_9_1_1/Ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_1/c_9_1_1/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_1/c_9_1_1/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_1/c_9_1_1/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_3/c_9_3_2/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_3/c_9_3_2/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_3/c_9_3_2/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_3/c_9_3_2/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_3/c_9_3_2/Rotatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_3/c_9_3_2/Sun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/A/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/A/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/A/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/Test_9_2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/Test_9_2/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_2/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_3/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_3/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_3/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_3/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_4/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_4/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_4/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/c_9_4_4/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/test_9_3/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/test_9_3/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_9/c_9_4/test_9_3/C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_4/commondata/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_4/commondata/Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_4/commondata/Dish$Type.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_4/commondata/Dish$Type.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_4/commondata/Dish.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_4/commondata/Dish.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +91,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -88,76 +140,76 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.M2 (2)">
+  <component name="RunManager" selected="Application.M1 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_9.c_9_4.c_9_4_2.C" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDK_8.chapter_9.c_9_4.c_9_4_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_9.c_9_4.Test_9_2.C" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDK_8.chapter_9.c_9_4.Test_9_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_9.c_9_4.A.C" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDK_8.chapter_9.c_9_4.A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_9.c_9_4.c_9_4_4.D" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDK_8.chapter_9.c_9_4.c_9_4_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="M1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_6.c_6_4.c_6_4_1.M1" />
+      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_10.c_10_4.c_10_4_1.M1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.chapter_6.c_6_4.c_6_4_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_6.c_6_4.c_6_4_2.M1" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.chapter_6.c_6_4.c_6_4_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_6.c_6_6.c_6_6_1.M2" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.chapter_6.c_6_6.c_6_6_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_6.c_6_4.c_6_4_1.M2" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.chapter_6.c_6_4.c_6_4_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test_6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.chapter_6.c_6_4.c_6_4_1.Test_6_2" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.chapter_6.c_6_4.c_6_4_1.*" />
+          <option name="PATTERN" value="JDK_8.chapter_10.c_10_4.c_10_4_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.M2 (2)" />
-        <item itemvalue="Application.M1 (2)" />
-        <item itemvalue="Application.Test_6_2" />
-        <item itemvalue="Application.M2" />
         <item itemvalue="Application.M1 (1)" />
+        <item itemvalue="Application.D" />
+        <item itemvalue="Application.C (2)" />
+        <item itemvalue="Application.C (1)" />
+        <item itemvalue="Application.C" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +324,7 @@
       <workItem from="1579871989645" duration="5074000" />
       <workItem from="1579919962740" duration="25707000" />
       <workItem from="1580039395458" duration="6728000" />
-      <workItem from="1580091837028" duration="6655000" />
+      <workItem from="1580091837028" duration="19011000" />
     </task>
     <servers />
   </component>
@@ -293,11 +345,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1580101495005">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1580129943609">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580101495005" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580129943609" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -306,26 +358,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580039941307" />
-    <state width="914" height="520" key="GridCell.Tab.0.bottom" timestamp="1580101986083">
+    <state width="914" height="519" key="GridCell.Tab.0.bottom" timestamp="1580138032154">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="520" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580101986083" />
-    <state width="914" height="520" key="GridCell.Tab.0.center" timestamp="1580101986083">
+    <state width="914" height="519" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580138032154" />
+    <state width="914" height="519" key="GridCell.Tab.0.center" timestamp="1580138032153">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="520" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580101986083" />
-    <state width="914" height="520" key="GridCell.Tab.0.left" timestamp="1580101986083">
+    <state width="914" height="519" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580138032153" />
+    <state width="914" height="519" key="GridCell.Tab.0.left" timestamp="1580138032153">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="520" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580101986083" />
-    <state width="914" height="520" key="GridCell.Tab.0.right" timestamp="1580101986083">
+    <state width="914" height="519" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580138032153" />
+    <state width="914" height="519" key="GridCell.Tab.0.right" timestamp="1580138032154">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="520" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580101986083" />
+    <state width="914" height="519" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580138032154" />
     <state width="914" height="668" key="GridCell.Tab.1.bottom" timestamp="1579313052327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -352,11 +404,11 @@
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
     <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580094472666" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1579953463060">
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1580112680799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1579953463060" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580112680799" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

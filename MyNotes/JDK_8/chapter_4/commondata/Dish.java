@@ -1,6 +1,7 @@
 package JDK_8.chapter_4.commondata;
 
 
+import JDK_8.chapter_6.c_6_3.CaloricLevel;
 
 /**
  * \* Created with IntelliJ IDEA.
@@ -48,6 +49,12 @@ public class Dish {
                 ", calories=" + calories +
                 ", type=" + type +
                 '}';
+    }
+
+    public CaloricLevel getCaloricLevel(){
+        if (this.getCalories() <= 400) return CaloricLevel.DIET;
+        else if (this.getCalories() <= 700) return CaloricLevel.NORMAL;
+        else return CaloricLevel.FAT;
     }
 
 
