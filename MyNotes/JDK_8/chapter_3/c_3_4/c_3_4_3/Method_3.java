@@ -1,18 +1,12 @@
 package JDK_8.chapter_3.c_3_4.c_3_4_3;
 
 import JDK_8.chapter_2.c_2_1.c_2_1_1.Apple;
-import JDK_8.chapter_2.c_2_3.c_2_3_4.Predicate;
-import thread.c3.c_3_1.c_3_1_3.a8.T;
 
-import java.io.PushbackInputStream;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-import java.util.function.Consumer;
-import java.util.function.Function;
-import java.util.function.IntBinaryOperator;
-import java.util.function.Supplier;
+import java.util.function.*;
 
 /**
  * \* Created with IntelliJ IDEA.

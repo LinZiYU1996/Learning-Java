@@ -1,10 +1,10 @@
 package JDK_8.Java_8_Function_Programming.chapter_2.a5;
 
-import JDK_8.chapter_2.c_2_3.c_2_3_4.Predicate;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Predicate;
 
 /**
  * \* Created with IntelliJ IDEA.

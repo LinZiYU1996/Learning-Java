@@ -2,97 +2,211 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A4/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A4/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A4/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/M4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/M5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/NumData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a1/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a1/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a1/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a1/User_Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a2/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a2/OldUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/Grade_Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/M4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/M5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/M6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/M7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/Student_Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a4/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a4/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A5/a4/Person_Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/M9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a2/N1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a2/N2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a2/N3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a2/N4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a3/N1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a3/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Concat_Streams_Lists_Sets_Arrays/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Concat_Streams_Lists_Sets_Arrays/ConcatArraysDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Concat_Streams_Lists_Sets_Arrays/ConcatListsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Concat_Streams_Lists_Sets_Arrays/ConcatSetsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Concat_Streams_Lists_Sets_Arrays/ConcatStreamsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Concat_Streams_Lists_Sets_Arrays/N1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Distinct_Example/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Distinct_Example/DistinctByProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Distinct_Example/DistinctSimpleDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Distinct_Example/DistinctWithUserObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_Example/FilterAndCollect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_Example/FilterAndReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_Example/FilterFindFirstAndForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_Example/FilterListOfInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_Example/FilterMapToIntAndSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_Example/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_map_Example/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_map_Example/ListToAnotherList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_map_Example/MapToIntDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_map_Example/MapToList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_map_Example/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_map_Example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_map_Example/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/MatchElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamCollect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamFindAnyFindFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamFlatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamGenerate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamIterate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamMaxMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamPeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamReduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/_Stream_Tutorial_with_Example/StreamToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/AveragingDoubleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/AveragingIntExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/AveragingLongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/CollectingAndThenExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/CountingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/JoiningExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/MappingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/MaxByMinByExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/SummingDoubleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/SummingIntExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/SummingLongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/ToListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/ToMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_Examples/ToSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_groupingBy_Example/CollectorsGroupingBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_groupingBy_Example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_joining_Example/JoiningExampleWithListOfObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_joining_Example/JoiningExampleWithListOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_joining_Example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_partitioningBy_Example/CollectorsPartitioningBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_partitioningBy_Example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_reducing_Example/ReducingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Collectors_reducing_Example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Convert_List_to_Map_using_Collectors_toMap/ListToMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Convert_List_to_Map_using_Collectors_toMap/ListToMap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Convert_List_to_Map_using_Collectors_toMap/ListToMapWithBinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Convert_List_to_Map_using_Collectors_toMap/ListToMapWithSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Convert_List_to_Map_using_Collectors_toMap/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Convert_Map_to_List_using_Collectors_toList/MapToListOfUserObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Convert_Map_to_List_using_Collectors_toList/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Convert_Map_to_List_using_Collectors_toList/SimpleMapToList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/IntStream_LongStream_and_DoubleStream_Example/DoubleStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/IntStream_LongStream_and_DoubleStream_Example/IntStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/IntStream_LongStream_and_DoubleStream_Example/LongStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_collect_Example/AveragingIntExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_collect_Example/CountingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_collect_Example/JoiningExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_collect_Example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_collect_Example/StreamCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_collect_Example/SumOfListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_collect_Example/ToListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_collect_Example/ToMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_and_map_Example/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_and_map_Example/FilterDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_filter_and_map_Example/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_findAny_findFirst_limit_max_and_min_Example/FindAnyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_findAny_findFirst_limit_max_and_min_Example/FindFirstDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_findAny_findFirst_limit_max_and_min_Example/LimitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_findAny_findFirst_limit_max_and_min_Example/StreamMaxMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMapToInt_flatMapToLong_and_flatMapToDouble_Example/DoubleDemoPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMapToInt_flatMapToLong_and_flatMapToDouble_Example/FlatMapToDoubleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMapToInt_flatMapToLong_and_flatMapToDouble_Example/FlatMapToIntDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMapToInt_flatMapToLong_and_flatMapToDouble_Example/FlatMapToLongDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMapToInt_flatMapToLong_and_flatMapToDouble_Example/IntDemoPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMapToInt_flatMapToLong_and_flatMapToDouble_Example/LongDemoPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMap_generate_and_Stream_of_Example/FlatMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMap_generate_and_Stream_of_Example/GenerateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMap_generate_and_Stream_of_Example/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_flatMap_generate_and_Stream_of_Example/StreamOfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_forEach_forEachOrdered_peek_skip_and_toArray_Example/ForEachDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_forEach_forEachOrdered_peek_skip_and_toArray_Example/PeekDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_forEach_forEachOrdered_peek_skip_and_toArray_Example/SkipDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_forEach_forEachOrdered_peek_skip_and_toArray_Example/ToArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_reduce_Example/ReduceDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_reduce_Example/ReduceDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_reduce_Example/ReduceDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_reduce_Example/ReduceToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_reduce_Example/ReduceToSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Stream_reduce_Example/StatisticsUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/Demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/StatisticsUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/SumOfArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/SumOfListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/SumOfListOfArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/Sum_Array_Map_and_List_Collection_Example/SumOfMapValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/BookComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/Demo1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/FlatMapWithArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/FlatMapWithArrayOfObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/FlatMapWithFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/FlatmapWithList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/FlatmapWithListOfList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/OptionalflatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/demo_from_broad/flatMap_Example/info.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/BiConsumer_BiFunction_and_BiPredicate_Example/BiConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/BiConsumer_BiFunction_and_BiPredicate_Example/BiFunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/BiConsumer_BiFunction_and_BiPredicate_Example/BiPredicateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/BooleanSupplier_IntSupplier_LongSupplier_and_DoubleSupplier_Example/BooleanSupplierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/BooleanSupplier_IntSupplier_LongSupplier_and_DoubleSupplier_Example/DoubleSupplierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/BooleanSupplier_IntSupplier_LongSupplier_and_DoubleSupplier_Example/IntSupplierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/BooleanSupplier_IntSupplier_LongSupplier_and_DoubleSupplier_Example/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/BooleanSupplier_IntSupplier_LongSupplier_and_DoubleSupplier_Example/LongSupplierExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Consumer_Interface_and_forEach_Loop/ConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Consumer_Interface_and_forEach_Loop/ConsumerWithPrimitiveDatatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Consumer_Interface_and_forEach_Loop/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Consumer_Interface_and_forEach_Loop/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Function_apply_in_Java_8/FunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Function_apply_in_Java_8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/DoubleFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/DoubleToIntFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/DoubleToLongFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/FunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/IntFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/IntToDoubleFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/IntToLongFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/LongFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/LongToDoubleFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/LongToIntFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/ToDoubleBiFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/ToDoubleFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/ToIntBiFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/ToIntFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/ToLongBiFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_8_Function_Examples/ToLongFunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_Inheritance/DataCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_Inheritance/DataReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_Inheritance/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_Inheritance/TaskHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_with_Generic_and_Default_Methods/DataCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_with_Generic_and_Default_Methods/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_with_Generic_and_Default_Methods/ExtraInfoProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_with_Generic_and_Default_Methods/InfoProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_with_Generic_and_Default_Methods/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Functional_Interface_with_Generic_and_Default_Methods/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/MyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/TaskHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Custom_Functional_Interface/Worship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateAndDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateIsEqualDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateNegateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateNotDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateOrDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateStreamDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateStreamDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateTestDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/PredicateTestDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Predicate/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/CustomSupplierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/MyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/SpecificDataTypeSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/SupplierConsumerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/SupplierWithConstructorRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/SupplierWithLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/Java_Supplier/SupplierWithMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/UnaryOperator_and_BinaryOperator_Example/BinaryOperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/UnaryOperator_and_BinaryOperator_Example/MaxByMinBy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/UnaryOperator_and_BinaryOperator_Example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/functional_interface/UnaryOperator_and_BinaryOperator_Example/UnaryOperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A1/PersonAgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A2/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A2/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A2/TestInstanceReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A2/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A3/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A3/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/method_reference/A3/Test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_2/a5/M2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_2/a5/M2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_2/a6/M7.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_2/a6/M7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/M2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/M2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_14/c_14_3/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_14/c_14_3/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_2/c_2_3/c_2_3_4/Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_2/c_2_3/c_2_3_4/Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_2/c_2_3/c_2_3_4/Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_2/c_2_3/c_2_3_4/Predicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_3/c_3_4/c_3_4_3/Method_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_3/c_3_4/c_3_4_3/Method_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/M1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/M2.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/M2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/PrimeNumbersCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/chapter_6/c_6_6/c_6_6_1/PrimeNumbersCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/Java_8_Function_Programming/chapter_2/a5/M2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/Java_8_Function_Programming/chapter_2/a5/M2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/Java_8_Function_Programming/chapter_2/a6/M7.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/Java_8_Function_Programming/chapter_2/a6/M7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/M2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/Java_8_Function_Programming/chapter_3/A6/a1/M2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_14/c_14_3/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_14/c_14_3/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_2/c_2_3/c_2_3_4/Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_2/c_2_3/c_2_3_4/Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_2/c_2_3/c_2_3_4/Predicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_3/c_3_4/c_3_4_3/Method_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_3/c_3_4/c_3_4_3/Method_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_6/c_6_6/c_6_6_1/M1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_6/c_6_6/c_6_6_1/M2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_6/c_6_6/c_6_6_1/PrimeNumbersCollector$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/chapter_6/c_6_6/c_6_6_1/PrimeNumbersCollector.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,8 +229,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="Kotlin Class" />
+        <option value="TypeScript File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -147,6 +262,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="ts.external.directory.path" value="E:\IDEA Develop\IntelliJ IDEA 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -164,20 +280,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FilterListOfInteger">
+  <component name="RunManager" selected="Application.FunctionDemo">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterAndCollect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.FilterAndCollect" />
+    <configuration name="BiFunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.BiConsumer_BiFunction_and_BiPredicate_Example.BiFunctionDemo" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.*" />
+          <option name="PATTERN" value="JDK_8.functional_interface.BiConsumer_BiFunction_and_BiPredicate_Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,13 +301,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterAndReduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.FilterAndReduce" />
+    <configuration name="BiPredicateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.BiConsumer_BiFunction_and_BiPredicate_Example.BiPredicateDemo" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.*" />
+          <option name="PATTERN" value="JDK_8.functional_interface.BiConsumer_BiFunction_and_BiPredicate_Example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,13 +315,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterFindFirstAndForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.FilterFindFirstAndForEach" />
+    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.Consumer_Interface_and_forEach_Loop.ConsumerDemo" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.*" />
+          <option name="PATTERN" value="JDK_8.functional_interface.Consumer_Interface_and_forEach_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,13 +329,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterListOfInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.FilterListOfInteger" />
+    <configuration name="ConsumerWithPrimitiveDatatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.Consumer_Interface_and_forEach_Loop.ConsumerWithPrimitiveDatatype" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.*" />
+          <option name="PATTERN" value="JDK_8.functional_interface.Consumer_Interface_and_forEach_Loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -227,13 +343,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterMapToIntAndSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.FilterMapToIntAndSum" />
+    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.Function_apply_in_Java_8.FunctionDemo" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.Java_8_Function_Programming.chapter_3.demo_from_broad.Stream_filter_Example.*" />
+          <option name="PATTERN" value="JDK_8.functional_interface.Function_apply_in_Java_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,11 +390,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FilterListOfInteger" />
-        <item itemvalue="Application.FilterAndReduce" />
-        <item itemvalue="Application.FilterAndCollect" />
-        <item itemvalue="Application.FilterMapToIntAndSum" />
-        <item itemvalue="Application.FilterFindFirstAndForEach" />
+        <item itemvalue="Application.FunctionDemo" />
+        <item itemvalue="Application.ConsumerWithPrimitiveDatatype" />
+        <item itemvalue="Application.ConsumerDemo" />
+        <item itemvalue="Application.BiPredicateDemo" />
+        <item itemvalue="Application.BiFunctionDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -352,6 +468,7 @@
       <workItem from="1580177497695" duration="16960000" />
       <workItem from="1580266379534" duration="18075000" />
       <workItem from="1580355020516" duration="27699000" />
+      <workItem from="1580436800692" duration="23387000" />
     </task>
     <servers />
   </component>
@@ -372,39 +489,39 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1580393132552">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1580474467103">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580393132552" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580474467103" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580301035291">
+    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580455529955">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580301035291" />
-    <state width="914" height="435" key="GridCell.Tab.0.bottom" timestamp="1580395281263">
+    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580455529955" />
+    <state width="913" height="438" key="GridCell.Tab.0.bottom" timestamp="1580482443664">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="435" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580395281263" />
-    <state width="914" height="435" key="GridCell.Tab.0.center" timestamp="1580395281263">
+    <state width="913" height="438" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580482443664" />
+    <state width="913" height="438" key="GridCell.Tab.0.center" timestamp="1580482443663">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="435" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580395281263" />
-    <state width="914" height="435" key="GridCell.Tab.0.left" timestamp="1580395281263">
+    <state width="913" height="438" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580482443663" />
+    <state width="913" height="438" key="GridCell.Tab.0.left" timestamp="1580482443660">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="435" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580395281263" />
-    <state width="914" height="435" key="GridCell.Tab.0.right" timestamp="1580395281263">
+    <state width="913" height="438" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580482443660" />
+    <state width="913" height="438" key="GridCell.Tab.0.right" timestamp="1580482443663">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="435" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580395281263" />
+    <state width="913" height="438" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580482443663" />
     <state width="914" height="668" key="GridCell.Tab.1.bottom" timestamp="1579313052327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -426,16 +543,16 @@
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578984419069" />
     <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580392690474" />
-    <state x="531" y="246" key="run.anything.popup" timestamp="1580393386381">
+    <state x="531" y="246" key="run.anything.popup" timestamp="1580448113013">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
-    <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580393386381" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1580369423819">
+    <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580448113013" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1580477838420">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580369423819" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580477838420" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -6,6 +6,7 @@ import JDK_8.chapter_2.c_2_1.c_2_1_1.CreateDataForApple;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+import java.util.function.Predicate;
 
 /**
  * \* Created with IntelliJ IDEA.
