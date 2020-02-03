@@ -2,7 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Consumer/common/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Consumer/common2/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Consumer/common2/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Consumer/common2/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Consumer/common_3/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Consumer/common_3/MyConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_1/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_1/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_1/M4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_1/Shanghai_People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_2/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_2/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_2/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Function/common_2/M4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_1/Create_Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_1/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_1/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_2/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_2/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_3/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_3/MyPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Predicate/common_3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/D_Map/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/D_Stream_of/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/D_Stream_of/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/D_Stream_of/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/D_Stream_of/M4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/D_filter/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/common_1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Supplier/common_1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Supplier/common_1/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_UnaryOperator/common_1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_UnaryOperator/common_1/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_UnaryOperator/the_BinaryOperator/common/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_UnaryOperator/the_BinaryOperator/common/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_UnaryOperator/the_BinaryOperator/common/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_UnaryOperator/the_BinaryOperator/common/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +97,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
     <property name="ts.external.directory.path" value="E:\IDEA Develop\IntelliJ IDEA 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
@@ -77,20 +116,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.M1">
+  <component name="RunManager" selected="Application.M1 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BiPredicateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.BiConsumer_BiFunction_and_BiPredicate_Example.BiPredicateDemo" />
+    <configuration name="Create_Data" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Predicate.common_1.Create_Data" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.functional_interface.BiConsumer_BiFunction_and_BiPredicate_Example.*" />
+          <option name="PATTERN" value="JDK_8.myNotes.J_Predicate.common_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,41 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.Consumer_Interface_and_forEach_Loop.ConsumerDemo" />
+    <configuration name="M1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Stream.D_Map.M1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.functional_interface.Consumer_Interface_and_forEach_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsumerWithPrimitiveDatatype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.Consumer_Interface_and_forEach_Loop.ConsumerWithPrimitiveDatatype" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.functional_interface.Consumer_Interface_and_forEach_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunctionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.functional_interface.Function_apply_in_Java_8.FunctionDemo" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.functional_interface.Function_apply_in_Java_8.*" />
+          <option name="PATTERN" value="JDK_8.myNotes.J_Stream.D_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +152,40 @@
       </method>
     </configuration>
     <configuration name="M1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Predicate.common_1.M1" />
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Stream.D_filter.M1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.myNotes.J_Predicate.common_1.*" />
+          <option name="PATTERN" value="JDK_8.myNotes.J_Stream.D_filter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Stream.D_Stream_of.M3" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDK_8.myNotes.J_Stream.D_Stream_of.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Stream.D_Stream_of.M4" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDK_8.myNotes.J_Stream.D_Stream_of.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M1 (1)" />
+        <item itemvalue="Application.Create_Data" />
         <item itemvalue="Application.M1" />
-        <item itemvalue="Application.FunctionDemo" />
-        <item itemvalue="Application.ConsumerWithPrimitiveDatatype" />
-        <item itemvalue="Application.ConsumerDemo" />
-        <item itemvalue="Application.BiPredicateDemo" />
+        <item itemvalue="Application.M4" />
+        <item itemvalue="Application.M3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -267,6 +306,7 @@
       <workItem from="1580355020516" duration="27699000" />
       <workItem from="1580436800692" duration="23387000" />
       <workItem from="1580549356622" duration="5818000" />
+      <workItem from="1580611710724" duration="22909000" />
     </task>
     <servers />
   </component>
@@ -287,39 +327,39 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1580474467103">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1580638191028">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580474467103" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580638191028" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580455529955">
+    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580619190132">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580455529955" />
-    <state width="1877" height="438" key="GridCell.Tab.0.bottom" timestamp="1580568910007">
+    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580619190132" />
+    <state width="1877" height="250" key="GridCell.Tab.0.bottom" timestamp="1580656216264">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="438" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580568910007" />
-    <state width="1877" height="438" key="GridCell.Tab.0.center" timestamp="1580568910007">
+    <state width="1877" height="250" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580656216264" />
+    <state width="1877" height="250" key="GridCell.Tab.0.center" timestamp="1580656216264">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="438" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580568910007" />
-    <state width="1877" height="438" key="GridCell.Tab.0.left" timestamp="1580568910007">
+    <state width="1877" height="250" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580656216264" />
+    <state width="1877" height="250" key="GridCell.Tab.0.left" timestamp="1580656216264">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="438" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580568910007" />
-    <state width="1877" height="438" key="GridCell.Tab.0.right" timestamp="1580568910007">
+    <state width="1877" height="250" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580656216264" />
+    <state width="1877" height="250" key="GridCell.Tab.0.right" timestamp="1580656216264">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="438" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580568910007" />
+    <state width="1877" height="250" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580656216264" />
     <state width="914" height="668" key="GridCell.Tab.1.bottom" timestamp="1579313052327">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -336,16 +376,16 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="914" height="668" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579313052327" />
-    <state x="311" y="9" key="SettingsEditor" timestamp="1580565475942">
+    <state x="311" y="9" key="SettingsEditor" timestamp="1580611980275">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578984419069" />
-    <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580565475942" />
-    <state x="531" y="246" key="run.anything.popup" timestamp="1580448113013">
+    <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1580611980275" />
+    <state x="531" y="246" key="run.anything.popup" timestamp="1580635356748">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
-    <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580448113013" />
+    <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580635356748" />
     <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1580566276748">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
