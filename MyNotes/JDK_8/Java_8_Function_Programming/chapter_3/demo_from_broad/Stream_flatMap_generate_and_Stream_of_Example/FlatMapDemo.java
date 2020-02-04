@@ -15,7 +15,8 @@ import java.util.stream.Stream;
 public class FlatMapDemo {
 
     //Stream.flatMap()
-    //Stream.flatMap() returns the stream object. We need to pass a function as an argument. Function will be applied to each element of stream and result will be flattened..
+    //Stream.flatMap() returns the stream object. We need to pass a function as an argument.
+    // Function will be applied to each element of stream and result will be flattened..
 
 
 

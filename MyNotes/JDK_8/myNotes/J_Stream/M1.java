@@ -34,6 +34,8 @@ public class M1 {
 
         stream2.forEach(System.out::println);
 
+//        Collectors
+
 
 
     }

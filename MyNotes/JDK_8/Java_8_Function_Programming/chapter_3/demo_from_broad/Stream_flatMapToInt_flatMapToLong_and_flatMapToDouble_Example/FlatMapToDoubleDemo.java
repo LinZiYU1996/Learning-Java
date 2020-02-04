@@ -18,7 +18,8 @@ public class FlatMapToDoubleDemo {
     //It is used for primitive double data type. It returns DoubleStream.
     //According to java doc.
     //
-    //"Returns an DoubleStream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced by applying the provided mapping function to each element"
+    //"Returns an DoubleStream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced
+    // by applying the provided mapping function to each element"
 
 
     public static void main(String[] args) {

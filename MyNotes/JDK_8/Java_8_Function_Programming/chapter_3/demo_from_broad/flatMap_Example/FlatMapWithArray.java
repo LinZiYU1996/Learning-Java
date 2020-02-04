@@ -13,15 +13,15 @@ import java.util.Arrays;
 public class FlatMapWithArray {
 
 
-    //Stream flatMap with Array
-    //Here we will use flatMap with array. I am creating a two dimensional array with integer data. Finally we will find out even numbers.
-    //1. Sample Array
-    //{{1,2},{3,4},{5,6}}
-    //2. After flatMap(row -> Arrays.stream(row))
-    //{1,2,3,4,5,6}
-    //3. After filter(num -> num%2 == 0)
-    //{2,4,6}
-    //Now find the example.
+//    Stream flatMap with Array
+//    Here we will use flatMap with array. I am creating a two dimensional array with integer data. Finally we will find out even numbers.
+//    1. Sample Array
+//    {{1,2},{3,4},{5,6}}
+//    2. After flatMap(row -> Arrays.stream(row))
+//    {1,2,3,4,5,6}
+//    3. After filter(num -> num%2 == 0)
+//    {2,4,6}
+//    Now find the example.
 
 
 
