@@ -6,6 +6,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 /**
  * \* Created with IntelliJ IDEA.
@@ -56,8 +57,11 @@ public class M1 {
                         System.out.println(k + "---" + v)
         );
 
+        System.out.println("----------------");
 
 
+        Map<String,String> map = Stream.of("AA","BB","CC").collect(Collectors.toMap(k->k, v->v+v));
+        map.forEach((k,v)->System.out.println("key:"+k +"  value:"+v));
 
 
 

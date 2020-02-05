@@ -42,6 +42,12 @@ public class Student {
         G_chinese = g_chinese;
     }
 
+    public Student(int id, String name, int age) {
+        this.id = id;
+        this.name = name;
+        this.age = age;
+    }
+
     @Override
     public String toString() {
         return "Student{" +
