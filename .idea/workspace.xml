@@ -2,30 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_averagingInt/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_counting/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_groupingBy/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_groupingBy/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_groupingBy/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_groupingBy/pojo/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_joining/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_joining/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_joining/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_mapping/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_maxBy/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_minBy/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_partitioningBy/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_reducing/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_summarizingInt/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_summingInt/M1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_toMap/M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_toMap/M3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_toMap/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/D/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/D/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/D/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/D/pojo/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/D1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/D1/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/D2/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/D2/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_IntStream/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Optional/p1/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Optional/p2/M1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Optional/p2/M2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Optional/p2/M3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Optional/p2/M4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Optional/p2/M5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_toMap/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_toMap/M1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_toMap/pojo/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_toMap/pojo/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Collectors/D_toMap/M1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Collectors/D_toMap/M1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Collectors/D_toMap/pojo/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Collectors/D_toMap/pojo/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_mapping/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_mapping/M1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_reducing/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Collectors/D_reducing/M1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/JDK_8/myNotes/J_Stream/M1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Collectors/D_mapping/M1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Collectors/D_mapping/M1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Collectors/D_reducing/M1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Collectors/D_reducing/M1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Stream/M1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/JDK_8/myNotes/J_Stream/M1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,34 +96,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a5" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.M1 (1)">
+  <component name="RunManager" selected="Application.M5">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Collectors.D_groupingBy.pojo.Employee" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.myNotes.J_Collectors.D_groupingBy.pojo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="M1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Collectors.D_reducing.M1" />
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Optional.p1.M1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.myNotes.J_Collectors.D_reducing.*" />
+          <option name="PATTERN" value="JDK_8.myNotes.J_Optional.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Collectors.D_partitioningBy.M1" />
+    <configuration name="M1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Optional.p2.M1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.myNotes.J_Collectors.D_partitioningBy.*" />
+          <option name="PATTERN" value="JDK_8.myNotes.J_Optional.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Collectors.D_groupingBy.M2" />
+    <configuration name="M2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Optional.p2.M2" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.myNotes.J_Collectors.D_groupingBy.*" />
+          <option name="PATTERN" value="JDK_8.myNotes.J_Optional.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,13 +145,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Collectors.D_groupingBy.M3" />
+    <configuration name="M4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Optional.p2.M4" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JDK_8.myNotes.J_Collectors.D_groupingBy.*" />
+          <option name="PATTERN" value="JDK_8.myNotes.J_Optional.p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="M5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Optional.p2.M5" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDK_8.myNotes.J_Optional.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.M5" />
+        <item itemvalue="Application.M4" />
+        <item itemvalue="Application.M2" />
+        <item itemvalue="Application.M1 (2)" />
         <item itemvalue="Application.M1 (1)" />
-        <item itemvalue="Application.M1" />
-        <item itemvalue="Application.M3" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.M2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,6 +289,7 @@
       <workItem from="1580611710724" duration="22909000" />
       <workItem from="1580697032488" duration="22041000" />
       <workItem from="1580784244233" duration="23314000" />
+      <workItem from="1580869366886" duration="20603000" />
     </task>
     <servers />
   </component>
@@ -324,26 +323,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580619190132" />
-    <state width="1877" height="465" key="GridCell.Tab.0.bottom" timestamp="1580828396515">
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom" timestamp="1580909771862">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="465" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580828396515" />
-    <state width="1877" height="465" key="GridCell.Tab.0.center" timestamp="1580828396515">
+    <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580909771862" />
+    <state width="1877" height="322" key="GridCell.Tab.0.center" timestamp="1580909771862">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="465" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580828396515" />
-    <state width="1877" height="465" key="GridCell.Tab.0.left" timestamp="1580828396515">
+    <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580909771862" />
+    <state width="1877" height="322" key="GridCell.Tab.0.left" timestamp="1580909771862">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="465" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580828396515" />
-    <state width="1877" height="465" key="GridCell.Tab.0.right" timestamp="1580828396515">
+    <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580909771862" />
+    <state width="1877" height="322" key="GridCell.Tab.0.right" timestamp="1580909771862">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="465" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580828396515" />
+    <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580909771862" />
     <state width="914" height="362" key="GridCell.Tab.1.bottom" timestamp="1580741676212">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -370,11 +369,11 @@
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
     <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580819587789" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1580800359636">
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1580908682208">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580800359636" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580908682208" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
