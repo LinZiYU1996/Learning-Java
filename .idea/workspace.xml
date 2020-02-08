@@ -2,39 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p1/Banner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p1/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p1/PrintBanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p2/Banner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p2/Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p2/PrintBanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p3/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p3/HuaWeiP30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p3/MicroUSB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p3/TypeC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p3/TypeC_Charge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p4/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p4/Adapteeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p4/ClassAdapterMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p4/InterfaceAdapterMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p4/ObjectAdapterMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p4/Targetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p5/Listen_3_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p5/Listen_Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p5/Listen_Type_C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p5/Mi_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p6/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p6/Typec2Vga1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p6/Typec2Vga2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Adapter_pattern/p6/Vga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Iterator_pattren/p1/Aggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Iterator_pattren/p1/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Iterator_pattren/p1/BookShelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Iterator_pattren/p1/BookShelfIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Iterator_pattren/p1/Iterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Iterator_pattren/p1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Factory_pattern/p1/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Factory_pattern/p1/IDCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Factory_pattern/p1/IDCardFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Factory_pattern/p1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Factory_pattern/p1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Template_pattern/p1/AbstractDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Template_pattern/p1/CharDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Template_pattern/p1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Template_pattern/p1/StringDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Template_pattern/p2/HouseOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Template_pattern/p2/HouseTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Template_pattern/p2/HouseTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Template_pattern/p2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -109,37 +89,9 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Optional.p2.M4" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.myNotes.J_Optional.p2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JDK_8.myNotes.J_Optional.p2.M5" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JDK_8.myNotes.J_Optional.p2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,13 +124,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.Iterator_pattren.p1.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.Template_pattern.p1.Main" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.Iterator_pattren.p1.*" />
+          <option name="PATTERN" value="design_pattern.Template_pattern.p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.Template_pattern.p2.Main" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design_pattern.Template_pattern.p2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.Factory_pattern.p1.Main" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="design_pattern.Factory_pattern.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.M5" />
-        <item itemvalue="Application.M4" />
       </list>
     </recent_temporary>
   </component>
@@ -304,6 +284,7 @@
       <workItem from="1580784244233" duration="23314000" />
       <workItem from="1580869366886" duration="20603000" />
       <workItem from="1580988804965" duration="8214000" />
+      <workItem from="1581078125176" duration="3731000" />
     </task>
     <servers />
   </component>
@@ -324,11 +305,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1580997756328">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1581085386144">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1580997756328" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581085386144" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -337,26 +318,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1580619190132" />
-    <state width="1877" height="322" key="GridCell.Tab.0.bottom" timestamp="1581000830953">
+    <state width="1877" height="319" key="GridCell.Tab.0.bottom" timestamp="1581087435929">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="322" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581000830953" />
-    <state width="1877" height="322" key="GridCell.Tab.0.center" timestamp="1581000830952">
+    <state width="1877" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581087435929" />
+    <state width="1877" height="319" key="GridCell.Tab.0.center" timestamp="1581087435929">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="322" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581000830952" />
-    <state width="1877" height="322" key="GridCell.Tab.0.left" timestamp="1581000830952">
+    <state width="1877" height="319" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581087435929" />
+    <state width="1877" height="319" key="GridCell.Tab.0.left" timestamp="1581087435929">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="322" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581000830952" />
-    <state width="1877" height="322" key="GridCell.Tab.0.right" timestamp="1581000830953">
+    <state width="1877" height="319" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581087435929" />
+    <state width="1877" height="319" key="GridCell.Tab.0.right" timestamp="1581087435929">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="322" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581000830953" />
+    <state width="1877" height="319" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581087435929" />
     <state width="914" height="362" key="GridCell.Tab.1.bottom" timestamp="1580741676212">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
