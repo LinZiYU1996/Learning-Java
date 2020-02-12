@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p1/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p1/Dircetor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p2/CompanyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p2/TestBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p3/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p3/ComputerConfigBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p3/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p3/HighConfigBuider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p3/LowConfigBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Builder_pattern/p3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/DoNotUserObjectVariargs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/OverloadMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/ParamPassing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a1/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a1/LongIntegerCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a1/Son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a2/AnimalCatCarfield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a2/Another.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a2/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a2/Garfield.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a2/ListNoGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/a2/One.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/ma_chu_gao_xiao/p2/啊/GenericDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,20 +91,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestPerson">
+  <component name="RunManager" selected="Application.ClassTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.Prototype_pattern.p1.Main" />
+    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.ma_chu_gao_xiao.p2.a2.ClassTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.Prototype_pattern.p1.*" />
+          <option name="PATTERN" value="better_write.ma_chu_gao_xiao.p2.a2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +112,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.Builder_pattern.p3.Main" />
+    <configuration name="DoNotUserObjectVariargs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.ma_chu_gao_xiao.p2.DoNotUserObjectVariargs" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.Builder_pattern.p3.*" />
+          <option name="PATTERN" value="better_write.ma_chu_gao_xiao.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.Builder_pattern.p2.TestBuilder" />
+    <configuration name="GenericDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.ma_chu_gao_xiao.p2.啊.GenericDemo" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.Builder_pattern.p2.*" />
+          <option name="PATTERN" value="better_write.ma_chu_gao_xiao.p2.啊.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.Prototype_pattern.p2.TestMain" />
+    <configuration name="LongIntegerCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.ma_chu_gao_xiao.p2.a1.LongIntegerCache" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.Prototype_pattern.p2.*" />
+          <option name="PATTERN" value="better_write.ma_chu_gao_xiao.p2.a1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,13 +154,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPerson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.Builder_pattern.p3.TestPerson" />
+    <configuration name="OverloadMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.ma_chu_gao_xiao.p2.OverloadMethods" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.Builder_pattern.p3.*" />
+          <option name="PATTERN" value="better_write.ma_chu_gao_xiao.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestPerson" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestBuilder" />
-        <item itemvalue="Application.TestMain" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.ClassTest" />
+        <item itemvalue="Application.LongIntegerCache" />
+        <item itemvalue="Application.GenericDemo" />
+        <item itemvalue="Application.OverloadMethods" />
+        <item itemvalue="Application.DoNotUserObjectVariargs" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +289,7 @@
       <workItem from="1581078125176" duration="3731000" />
       <workItem from="1581163879598" duration="3616000" />
       <workItem from="1581228434599" duration="4669000" />
-      <workItem from="1581388223892" duration="2469000" />
+      <workItem from="1581388223892" duration="11793000" />
     </task>
     <servers />
   </component>
@@ -306,11 +310,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1581390797143">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1581421959012">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581390797143" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581421959012" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -319,26 +323,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581166459822" />
-    <state width="1877" height="310" key="GridCell.Tab.0.bottom" timestamp="1581390806011">
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom" timestamp="1581432014075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581390806011" />
-    <state width="1877" height="310" key="GridCell.Tab.0.center" timestamp="1581390806011">
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581432014075" />
+    <state width="1877" height="310" key="GridCell.Tab.0.center" timestamp="1581432014075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="310" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581390806011" />
-    <state width="1877" height="310" key="GridCell.Tab.0.left" timestamp="1581390806010">
+    <state width="1877" height="310" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581432014075" />
+    <state width="1877" height="310" key="GridCell.Tab.0.left" timestamp="1581432014075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="310" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581390806010" />
-    <state width="1877" height="310" key="GridCell.Tab.0.right" timestamp="1581390806011">
+    <state width="1877" height="310" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581432014075" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right" timestamp="1581432014075">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="310" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581390806011" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581432014075" />
     <state width="914" height="362" key="GridCell.Tab.1.bottom" timestamp="1580741676212">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -365,11 +369,11 @@
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
     <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581390406997" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1581388489066">
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1581407364673">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581388489066" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581407364673" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
