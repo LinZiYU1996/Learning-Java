@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Facade_pattern/p1/CipherMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Facade_pattern/p1/EncryptFacade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Facade_pattern/p1/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Facade_pattern/p1/FileWriter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Facade_pattern/p1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p1/Colleague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p1/ConcreteColleagueA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p1/ConcreteColleagueB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p1/ConcreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p1/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p2/CDDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p2/CPU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p2/Colleague.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p2/MainBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p2/Mediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p2/SoundCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Mediator_pattenr/p2/VideoCard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +89,7 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -102,13 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.ChainOfResponsibility.p1.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.Mediator_pattenr.p2.Main" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="design_pattern.ChainOfResponsibility.p1.*" />
+          <option name="PATTERN" value="design_pattern.Mediator_pattenr.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.ji_ke_shi_jian.p1.Main1" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design_pattern.ChainOfResponsibility.p1.Main" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jvm.ji_ke_shi_jian.p1.*" />
+          <option name="PATTERN" value="design_pattern.ChainOfResponsibility.p1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Test_2" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main1" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +294,8 @@
       <workItem from="1581773173182" duration="943000" />
       <workItem from="1581842353540" duration="4098000" />
       <workItem from="1581948341994" duration="884000" />
-      <workItem from="1582030410504" duration="245000" />
+      <workItem from="1582030410504" duration="1024000" />
+      <workItem from="1582116706604" duration="979000" />
     </task>
     <servers />
   </component>
@@ -307,11 +316,11 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1581948470117">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1582117575928">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581948470117" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1582117575928" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -320,26 +329,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581773339590" />
-    <state width="1877" height="367" key="GridCell.Tab.0.bottom" timestamp="1582030793897">
+    <state width="1877" height="367" key="GridCell.Tab.0.bottom" timestamp="1582117606374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="367" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582030793897" />
-    <state width="1877" height="367" key="GridCell.Tab.0.center" timestamp="1582030793897">
+    <state width="1877" height="367" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582117606374" />
+    <state width="1877" height="367" key="GridCell.Tab.0.center" timestamp="1582117606374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="367" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582030793897" />
-    <state width="1877" height="367" key="GridCell.Tab.0.left" timestamp="1582030793897">
+    <state width="1877" height="367" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582117606374" />
+    <state width="1877" height="367" key="GridCell.Tab.0.left" timestamp="1582117606374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="367" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582030793897" />
-    <state width="1877" height="367" key="GridCell.Tab.0.right" timestamp="1582030793897">
+    <state width="1877" height="367" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582117606374" />
+    <state width="1877" height="367" key="GridCell.Tab.0.right" timestamp="1582117606374">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="367" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582030793897" />
+    <state width="1877" height="367" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582117606374" />
     <state width="914" height="362" key="GridCell.Tab.1.bottom" timestamp="1580741676212">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
