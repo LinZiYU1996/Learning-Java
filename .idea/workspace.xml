@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Interpreter_pattern/p1/And.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Interpreter_pattern/p1/Constant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Interpreter_pattern/p1/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Interpreter_pattern/p1/Expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Interpreter_pattern/p1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Interpreter_pattern/p1/Not.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Interpreter_pattern/p1/Or.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/design_pattern/Interpreter_pattern/p1/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P1/A1/Provider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P1/A1/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P1/A1/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P1/A1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P1/Demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,23 +82,9 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="design_pattern.FlyWeight_pattern.p1.Main" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="design_pattern.FlyWeight_pattern.p1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,6 +145,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Effective.P1.A1.Test" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Effective.P1.A1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -195,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.RemoteLoader" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +295,9 @@
       <workItem from="1582464745573" duration="2689000" />
       <workItem from="1582549695970" duration="1284000" />
       <workItem from="1582634175570" duration="1766000" />
-      <workItem from="1582720684765" duration="788000" />
+      <workItem from="1582720684765" duration="2088000" />
+      <workItem from="1582807410741" duration="35000" />
+      <workItem from="1582807469019" duration="1654000" />
     </task>
     <servers />
   </component>
@@ -332,26 +331,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581773339590" />
-    <state width="1877" height="366" key="GridCell.Tab.0.bottom" timestamp="1582721572034">
+    <state width="1877" height="366" key="GridCell.Tab.0.bottom" timestamp="1582809144772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582721572034" />
-    <state width="1877" height="366" key="GridCell.Tab.0.center" timestamp="1582721572034">
+    <state width="1877" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1582809144772" />
+    <state width="1877" height="366" key="GridCell.Tab.0.center" timestamp="1582809144772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="366" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582721572034" />
-    <state width="1877" height="366" key="GridCell.Tab.0.left" timestamp="1582721572034">
+    <state width="1877" height="366" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1582809144772" />
+    <state width="1877" height="366" key="GridCell.Tab.0.left" timestamp="1582809144772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="366" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582721572034" />
-    <state width="1877" height="366" key="GridCell.Tab.0.right" timestamp="1582721572034">
+    <state width="1877" height="366" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1582809144772" />
+    <state width="1877" height="366" key="GridCell.Tab.0.right" timestamp="1582809144772">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="366" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582721572034" />
+    <state width="1877" height="366" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1582809144772" />
     <state width="914" height="362" key="GridCell.Tab.1.bottom" timestamp="1580741676212">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
