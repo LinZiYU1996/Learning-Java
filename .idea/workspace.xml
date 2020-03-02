@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P4/JDBCUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P4/UtilityClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P5/Lexicon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P5/SpellChecker_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P5/SpellChecker_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -297,7 +298,8 @@
       <workItem from="1582807469019" duration="3014000" />
       <workItem from="1582892258976" duration="3885000" />
       <workItem from="1582980407282" duration="1664000" />
-      <workItem from="1583068666460" duration="276000" />
+      <workItem from="1583068666460" duration="1591000" />
+      <workItem from="1583156013207" duration="509000" />
     </task>
     <servers />
   </component>
