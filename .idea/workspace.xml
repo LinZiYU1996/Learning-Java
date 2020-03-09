@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P13/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P13/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P13/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/CsApp/A/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/CsApp/B/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/CsApp/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/CsApp/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/CsApp/Test_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,48 +82,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PhoneNumber_2">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Perfect_PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Effective.P11.Perfect_PhoneNumber" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CsApp.Demo1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Effective.P11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Effective.P11.PhoneNumber" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Effective.P11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneNumber_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Effective.P12.PhoneNumber_1" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Effective.P12.*" />
+          <option name="PATTERN" value="CsApp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,13 +117,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Effective.P10.Test" />
+    <configuration name="ProducerConsumer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CsApp.A.ProducerConsumer" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Effective.P10.*" />
+          <option name="PATTERN" value="CsApp.A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CsApp.ProducerConsumer" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CsApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CsApp.B.Test" />
+      <module name="Learning-Java" />
+      <option name="VM_PARAMETERS" value="-XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly Test.call" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CsApp.B.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,13 +190,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Demo1" />
+      <item itemvalue="Application.PhoneNumber_2" />
+      <item itemvalue="Application.ProducerConsumer" />
+      <item itemvalue="Application.ProducerConsumer (1)" />
+      <item itemvalue="Application.Test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ProducerConsumer (1)" />
+        <item itemvalue="Application.ProducerConsumer" />
+        <item itemvalue="Application.Demo1" />
         <item itemvalue="Application.PhoneNumber_2" />
-        <item itemvalue="Application.PhoneNumber_1" />
-        <item itemvalue="Application.Perfect_PhoneNumber" />
-        <item itemvalue="Application.PhoneNumber" />
-        <item itemvalue="Application.Test (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +314,8 @@
       <workItem from="1583399908738" duration="2840000" />
       <workItem from="1583496103836" duration="2594000" />
       <workItem from="1583581029974" duration="1287000" />
-      <workItem from="1583666929775" duration="528000" />
+      <workItem from="1583666929775" duration="3010000" />
+      <workItem from="1583738329731" duration="9119000" />
     </task>
     <servers />
   </component>
@@ -326,11 +336,15 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1583581446527">
+    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583757689806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583757689806" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1583738509766">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583581446527" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583738509766" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -339,42 +353,46 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581773339590" />
-    <state width="916" height="366" key="GridCell.Tab.0.bottom" timestamp="1583593690920">
+    <state x="1154" y="295" key="FileChooserDialogImpl" timestamp="1583747467259">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1583747467259" />
+    <state width="1877" height="713" key="GridCell.Tab.0.bottom" timestamp="1583757719880">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="916" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583593690920" />
-    <state width="916" height="366" key="GridCell.Tab.0.center" timestamp="1583593690919">
+    <state width="1877" height="713" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583757719880" />
+    <state width="1877" height="713" key="GridCell.Tab.0.center" timestamp="1583757719879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="916" height="366" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583593690919" />
-    <state width="916" height="366" key="GridCell.Tab.0.left" timestamp="1583593690919">
+    <state width="1877" height="713" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583757719879" />
+    <state width="1877" height="713" key="GridCell.Tab.0.left" timestamp="1583757719879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="916" height="366" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583593690919" />
-    <state width="916" height="366" key="GridCell.Tab.0.right" timestamp="1583593690920">
+    <state width="1877" height="713" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583757719879" />
+    <state width="1877" height="713" key="GridCell.Tab.0.right" timestamp="1583757719879">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="916" height="366" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583593690920" />
-    <state width="914" height="362" key="GridCell.Tab.1.bottom" timestamp="1580741676212">
+    <state width="1877" height="713" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583757719879" />
+    <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1583753843844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1580741676212" />
-    <state width="914" height="362" key="GridCell.Tab.1.center" timestamp="1580741676212">
+    <state width="1877" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583753843844" />
+    <state width="1877" height="362" key="GridCell.Tab.1.center" timestamp="1583753843844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="362" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1580741676212" />
-    <state width="914" height="362" key="GridCell.Tab.1.left" timestamp="1580741676212">
+    <state width="1877" height="362" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583753843844" />
+    <state width="1877" height="362" key="GridCell.Tab.1.left" timestamp="1583753843844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="362" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1580741676212" />
-    <state width="914" height="362" key="GridCell.Tab.1.right" timestamp="1580741676212">
+    <state width="1877" height="362" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583753843844" />
+    <state width="1877" height="362" key="GridCell.Tab.1.right" timestamp="1583753843844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="914" height="362" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1580741676212" />
+    <state width="1877" height="362" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583753843844" />
     <state x="311" y="9" key="SettingsEditor" timestamp="1580611980275">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -385,11 +403,11 @@
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
     <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581390406997" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1581407364673">
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1583739116671">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581407364673" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583739116671" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
