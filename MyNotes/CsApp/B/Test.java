@@ -41,11 +41,13 @@ public class Test {
 
 //    java -XX:+PrintCompilation Test
 
-//     -XX:+UnlockDiagnosticVMOptions -XX:CompileCommand=print,*Test.call Test
+//     -XX:+UnlockDiagnosticVMOptions -XX:CompileCommand=print,*Test.call -Xcomp Test
 
 //    $ java -XX:CompileThreshold=1 -XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly -XX:CompileCommand="compileonly pCsApp/B/Test call" Test
 
     //-XX: UnlockDiagnosticVMOptions \ -XX:-UseCompressedOops \ -XX:PrintAssemblyO
+
+//    java a-XX:+UnlockDiagnosticVMOptions -XX:CompileCommnd=print,*Test.call -Xcomp call
 
 
 }
