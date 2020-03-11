@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/CsApp/B/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P14/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P14/Person_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P14/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P14/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P14/WordList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P15/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P3/FInalizeEscapeGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P3/ReferenceCountingGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/FieldResolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/NotInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/d1/NotInitialzation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/d2/ConstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/d2/NotInitialization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/CsApp/B/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/CsApp/B/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,20 +87,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T3">
+  <component name="RunManager" selected="Application.FieldResolution">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CsApp.B.T" />
+    <configuration name="FInalizeEscapeGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P3.FInalizeEscapeGC" />
       <module name="Learning-Java" />
-      <option name="VM_PARAMETERS" value="-XX:+UnlockDiagnosticVMOptions -XX:+PrintAssembly" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CsApp.B.*" />
+          <option name="PATTERN" value="book_jvm.P3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,13 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Effective.P14.T1" />
+    <configuration name="FieldResolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P7.FieldResolution" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Effective.P14.*" />
+          <option name="PATTERN" value="book_jvm.P7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,13 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Effective.P14.T2" />
+    <configuration name="NotInitialization (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P7.d2.NotInitialization" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Effective.P14.*" />
+          <option name="PATTERN" value="book_jvm.P7.d2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,13 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Effective.P14.T3" />
+    <configuration name="NotInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P7.NotInitialization" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Effective.P14.*" />
+          <option name="PATTERN" value="book_jvm.P7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,13 +150,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Effective.P14.WordList" />
+    <configuration name="NotInitialzation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P7.d1.NotInitialzation" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Effective.P14.*" />
+          <option name="PATTERN" value="book_jvm.P7.d1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,19 +196,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T" />
-      <item itemvalue="Application.WordList" />
-      <item itemvalue="Application.T1" />
-      <item itemvalue="Application.T2" />
-      <item itemvalue="Application.T3" />
+      <item itemvalue="Application.FInalizeEscapeGC" />
+      <item itemvalue="Application.NotInitialization" />
+      <item itemvalue="Application.NotInitialzation" />
+      <item itemvalue="Application.NotInitialization (1)" />
+      <item itemvalue="Application.FieldResolution" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T3" />
-        <item itemvalue="Application.T2" />
-        <item itemvalue="Application.T1" />
-        <item itemvalue="Application.WordList" />
-        <item itemvalue="Application.T" />
+        <item itemvalue="Application.FieldResolution" />
+        <item itemvalue="Application.NotInitialization (1)" />
+        <item itemvalue="Application.NotInitialzation" />
+        <item itemvalue="Application.NotInitialization" />
+        <item itemvalue="Application.FInalizeEscapeGC" />
       </list>
     </recent_temporary>
   </component>
@@ -319,7 +322,8 @@
       <workItem from="1583666929775" duration="3010000" />
       <workItem from="1583738329731" duration="10210000" />
       <workItem from="1583759828532" duration="2261000" />
-      <workItem from="1583846200204" duration="665000" />
+      <workItem from="1583846200204" duration="1440000" />
+      <workItem from="1583915084477" duration="3374000" />
     </task>
     <servers />
   </component>
@@ -344,11 +348,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583761757276" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1583846963359">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1583915785067">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583846963359" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583915785067" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -361,26 +365,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1583747467259" />
-    <state width="914" height="233" key="GridCell.Tab.0.bottom" timestamp="1583847036928">
+    <state width="758" height="234" key="GridCell.Tab.0.bottom" timestamp="1583930045064">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583847036928" />
-    <state width="914" height="233" key="GridCell.Tab.0.center" timestamp="1583847036928">
+    <state width="758" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583930045064" />
+    <state width="758" height="234" key="GridCell.Tab.0.center" timestamp="1583930045064">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="233" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583847036928" />
-    <state width="914" height="233" key="GridCell.Tab.0.left" timestamp="1583847036928">
+    <state width="758" height="234" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583930045064" />
+    <state width="758" height="234" key="GridCell.Tab.0.left" timestamp="1583930045064">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="233" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583847036928" />
-    <state width="914" height="233" key="GridCell.Tab.0.right" timestamp="1583847036928">
+    <state width="758" height="234" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583930045064" />
+    <state width="758" height="234" key="GridCell.Tab.0.right" timestamp="1583930045064">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="233" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583847036928" />
+    <state width="758" height="234" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583930045064" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1583758882312">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
