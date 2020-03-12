@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P15/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P3/FInalizeEscapeGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P3/ReferenceCountingGC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/FieldResolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/NotInitialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/SubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/SuperClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/d1/NotInitialzation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/d2/ConstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/d2/NotInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/Dispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/DynamicDispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/GenericTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/MethodHandleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/OverLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/StaticDispatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,20 +83,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FieldResolution">
+  <component name="RunManager" selected="Application.MethodHandleTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FInalizeEscapeGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book_jvm.P3.FInalizeEscapeGC" />
+    <configuration name="Dispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P8.Dispatch" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="book_jvm.P3.*" />
+          <option name="PATTERN" value="book_jvm.P8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,13 +104,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FieldResolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book_jvm.P7.FieldResolution" />
+    <configuration name="DynamicDispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P8.DynamicDispatch" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="book_jvm.P7.*" />
+          <option name="PATTERN" value="book_jvm.P8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotInitialization (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book_jvm.P7.d2.NotInitialization" />
+    <configuration name="MethodHandleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P8.MethodHandleTest" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="book_jvm.P7.d2.*" />
+          <option name="PATTERN" value="book_jvm.P8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book_jvm.P7.NotInitialization" />
+    <configuration name="OverLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P8.OverLoad" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="book_jvm.P7.*" />
+          <option name="PATTERN" value="book_jvm.P8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,13 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotInitialzation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book_jvm.P7.d1.NotInitialzation" />
+    <configuration name="StaticDispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.P8.StaticDispatch" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="book_jvm.P7.d1.*" />
+          <option name="PATTERN" value="book_jvm.P8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,19 +192,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FInalizeEscapeGC" />
-      <item itemvalue="Application.NotInitialization" />
-      <item itemvalue="Application.NotInitialzation" />
-      <item itemvalue="Application.NotInitialization (1)" />
-      <item itemvalue="Application.FieldResolution" />
+      <item itemvalue="Application.StaticDispatch" />
+      <item itemvalue="Application.OverLoad" />
+      <item itemvalue="Application.DynamicDispatch" />
+      <item itemvalue="Application.Dispatch" />
+      <item itemvalue="Application.MethodHandleTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FieldResolution" />
-        <item itemvalue="Application.NotInitialization (1)" />
-        <item itemvalue="Application.NotInitialzation" />
-        <item itemvalue="Application.NotInitialization" />
-        <item itemvalue="Application.FInalizeEscapeGC" />
+        <item itemvalue="Application.MethodHandleTest" />
+        <item itemvalue="Application.Dispatch" />
+        <item itemvalue="Application.DynamicDispatch" />
+        <item itemvalue="Application.OverLoad" />
+        <item itemvalue="Application.StaticDispatch" />
       </list>
     </recent_temporary>
   </component>
@@ -323,7 +319,8 @@
       <workItem from="1583738329731" duration="10210000" />
       <workItem from="1583759828532" duration="2261000" />
       <workItem from="1583846200204" duration="1440000" />
-      <workItem from="1583915084477" duration="3374000" />
+      <workItem from="1583915084477" duration="6071000" />
+      <workItem from="1583980466928" duration="3702000" />
     </task>
     <servers />
   </component>
@@ -348,11 +345,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583761757276" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1583915785067">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1583980557135">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583915785067" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1583980557135" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -365,26 +362,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1583747467259" />
-    <state width="758" height="234" key="GridCell.Tab.0.bottom" timestamp="1583930045064">
+    <state width="914" height="234" key="GridCell.Tab.0.bottom" timestamp="1583984492951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="758" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583930045064" />
-    <state width="758" height="234" key="GridCell.Tab.0.center" timestamp="1583930045064">
+    <state width="914" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583984492951" />
+    <state width="914" height="234" key="GridCell.Tab.0.center" timestamp="1583984492951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="758" height="234" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583930045064" />
-    <state width="758" height="234" key="GridCell.Tab.0.left" timestamp="1583930045064">
+    <state width="914" height="234" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583984492951" />
+    <state width="914" height="234" key="GridCell.Tab.0.left" timestamp="1583984492951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="758" height="234" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583930045064" />
-    <state width="758" height="234" key="GridCell.Tab.0.right" timestamp="1583930045064">
+    <state width="914" height="234" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583984492951" />
+    <state width="914" height="234" key="GridCell.Tab.0.right" timestamp="1583984492951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="758" height="234" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583930045064" />
+    <state width="914" height="234" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583984492951" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1583758882312">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -406,16 +403,16 @@
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578984419069" />
     <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1583759813525" />
-    <state x="531" y="246" key="run.anything.popup" timestamp="1581390406997">
+    <state x="531" y="246" key="run.anything.popup" timestamp="1583938677974">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
-    <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581390406997" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1583739116671">
+    <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583938677974" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1583938703482">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583739116671" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583938703482" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
