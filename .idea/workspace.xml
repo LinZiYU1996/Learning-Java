@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P18/A1/ForwardingSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P18/A1/InstrumentedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P18/InstrumentedHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Effective/P18/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P6/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P6/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P7/ClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/StaticResolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/A4/BASE64Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/A4/BASE64Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/A4/ConstantPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/A4/ConstantPoolTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/book_jvm/A4/HeapConstantPoolVisitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/book_jvm/P8/Dispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/Dispatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/book_jvm/P8/DynamicDispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/DynamicDispatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/book_jvm/P8/StaticDispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/StaticDispatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/book_jvm/P8/Dispatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/book_jvm/P8/Dispatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/book_jvm/P8/StaticDispatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/book_jvm/P8/StaticDispatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/book_jvm/P8/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/book_jvm/P8/T.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +83,7 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StaticDispatch">
+  <component name="RunManager" selected="Application.ConstantPoolTestCase">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -105,6 +97,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="book_jvm.P7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstantPoolTestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book_jvm.A4.ConstantPoolTestCase" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="book_jvm.A4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,20 +139,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="book_jvm.P8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="book_jvm.P6.T" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="book_jvm.P6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,19 +192,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.T" />
       <item itemvalue="Application.ClassLoaderTest" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.StaticResolution" />
       <item itemvalue="Application.StaticDispatch" />
+      <item itemvalue="Application.ConstantPoolTestCase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstantPoolTestCase" />
         <item itemvalue="Application.StaticDispatch" />
         <item itemvalue="Application.StaticResolution" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.ClassLoaderTest" />
-        <item itemvalue="Application.T" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +323,7 @@
       <workItem from="1583980466928" duration="6762000" />
       <workItem from="1584065567544" duration="5701000" />
       <workItem from="1584155536907" duration="9918000" />
-      <workItem from="1584242936920" duration="7287000" />
+      <workItem from="1584242936920" duration="12447000" />
     </task>
     <servers />
   </component>
@@ -373,26 +365,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1583747467259" />
-    <state width="1877" height="233" key="GridCell.Tab.0.bottom" timestamp="1584247719709">
+    <state width="914" height="232" key="GridCell.Tab.0.bottom" timestamp="1584282265648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584247719709" />
-    <state width="1877" height="233" key="GridCell.Tab.0.center" timestamp="1584247719708">
+    <state width="914" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584282265648" />
+    <state width="914" height="232" key="GridCell.Tab.0.center" timestamp="1584282265648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="233" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584247719708" />
-    <state width="1877" height="233" key="GridCell.Tab.0.left" timestamp="1584247719708">
+    <state width="914" height="232" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584282265648" />
+    <state width="914" height="232" key="GridCell.Tab.0.left" timestamp="1584282265648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="233" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584247719708" />
-    <state width="1877" height="233" key="GridCell.Tab.0.right" timestamp="1584247719708">
+    <state width="914" height="232" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584282265648" />
+    <state width="914" height="232" key="GridCell.Tab.0.right" timestamp="1584282265648">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="233" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584247719708" />
+    <state width="914" height="232" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584282265648" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1583758882312">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -419,11 +411,11 @@
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
     <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583938677974" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1583938703482">
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1584278796539">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583938703482" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584278796539" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
