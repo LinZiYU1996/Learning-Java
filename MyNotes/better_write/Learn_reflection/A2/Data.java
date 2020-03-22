@@ -121,4 +121,16 @@ public class Data {
     public void setaChar(char aChar) {
         this.aChar = aChar;
     }
+
+    @Override
+    public String toString() {
+        return "Data{" +
+                "anInt=" + anInt +
+                ", aDouble=" + aDouble +
+                ", string='" + string + '\'' +
+                ", aShort=" + aShort +
+                ", aFloat=" + aFloat +
+                ", aChar=" + aChar +
+                '}';
+    }
 }

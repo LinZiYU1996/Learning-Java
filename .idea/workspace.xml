@@ -2,21 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/SimpleLexer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/Token.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/TokenReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/TokenType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A3/MethodInvoke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/Learn_invoke/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/Learn_invoke/TestClassLoad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A2/FellConstructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A2/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A3/LoggingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A3/LoggingExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A3/LoggingExceptions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A4/ExtraFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A4/MyException2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/InheritingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/SimpleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A3/ExceptionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A3/Rethrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A3/WhoCalled.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/ji_ke_shi_jian/P7/A1/DivideByZeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/ji_ke_shi_jian/P7/A1/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/ji_ke_shi_jian/P7/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/ji_ke_shi_jian/P7/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/thread/T1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Learn_reflection/A2/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Learn_reflection/A2/Data.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +100,7 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T8">
+  <component name="RunManager" selected="Application.TestClassLoad">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -105,6 +114,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="jvm.oracleDocument.A1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodInvoke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.A3.MethodInvoke" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Learn_reflection.A3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rethrowing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.Exception.A3.Rethrowing" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jvm.Exception.A3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,8 +163,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.A2.T4" />
+    <configuration name="T9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.A2.T9" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -140,13 +177,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.A2.T5" />
+    <configuration name="TestClassLoad" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.Learn_invoke.TestClassLoad" />
       <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value=" -XX:+TraTestClassLoad TraTestClassLoad" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Learn_reflection.A2.*" />
+          <option name="PATTERN" value="better_write.Learn_reflection.Learn_invoke.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,41 +191,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.A2.T6" />
+    <configuration name="WhoCalled" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.Exception.A3.WhoCalled" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Learn_reflection.A2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.A2.T7" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Learn_reflection.A2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.A2.T8" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Learn_reflection.A2.*" />
+          <option name="PATTERN" value="jvm.Exception.A3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,19 +239,17 @@
     <list>
       <item itemvalue="Application.T3" />
       <item itemvalue="Application.ClassSpy" />
-      <item itemvalue="Application.T4" />
-      <item itemvalue="Application.T5" />
-      <item itemvalue="Application.T6" />
-      <item itemvalue="Application.T7" />
-      <item itemvalue="Application.T8" />
+      <item itemvalue="Application.TestClassLoad" />
+      <item itemvalue="Application.WhoCalled" />
+      <item itemvalue="Application.Rethrowing" />
+      <item itemvalue="Application.MethodInvoke" />
+      <item itemvalue="Application.T9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T8" />
-        <item itemvalue="Application.T7" />
-        <item itemvalue="Application.T6" />
-        <item itemvalue="Application.T5" />
-        <item itemvalue="Application.T4" />
+        <item itemvalue="Application.T9" />
+        <item itemvalue="Application.MethodInvoke" />
+        <item itemvalue="Application.Rethrowing" />
       </list>
     </recent_temporary>
   </component>
@@ -370,6 +377,7 @@
       <workItem from="1584518065215" duration="11099000" />
       <workItem from="1584599880465" duration="15189000" />
       <workItem from="1584676554011" duration="15072000" />
+      <workItem from="1584780141215" duration="10576000" />
     </task>
     <servers />
   </component>
@@ -390,23 +398,23 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584602606285">
+    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584796091373">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584602606285" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1584715123366">
+    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584796091373" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1584794434602">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584715123366" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584794434602" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581773339590">
+    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584785335066">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581773339590" />
+    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584785335066" />
     <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584360926845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -415,26 +423,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584331430644" />
-    <state width="914" height="349" key="GridCell.Tab.0.bottom" timestamp="1584716182382">
+    <state width="809" height="345" key="GridCell.Tab.0.bottom" timestamp="1584798355383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584716182382" />
-    <state width="914" height="349" key="GridCell.Tab.0.center" timestamp="1584716182382">
+    <state width="809" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584798355383" />
+    <state width="809" height="345" key="GridCell.Tab.0.center" timestamp="1584798355383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="349" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584716182382" />
-    <state width="914" height="349" key="GridCell.Tab.0.left" timestamp="1584716182382">
+    <state width="809" height="345" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584798355383" />
+    <state width="809" height="345" key="GridCell.Tab.0.left" timestamp="1584798355383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="349" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584716182382" />
-    <state width="914" height="349" key="GridCell.Tab.0.right" timestamp="1584716182382">
+    <state width="809" height="345" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584798355383" />
+    <state width="809" height="345" key="GridCell.Tab.0.right" timestamp="1584798355383">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="349" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584716182382" />
+    <state width="809" height="345" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584798355383" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1584629130310">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
