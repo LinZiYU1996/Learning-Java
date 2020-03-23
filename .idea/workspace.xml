@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/T9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A3/MethodInvoke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/Learn_invoke/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/Learn_invoke/TestClassLoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A2/FellConstructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A2/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A3/LoggingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A3/LoggingExceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A3/LoggingExceptions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A4/ExtraFeatures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/A4/MyException2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/InheritingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A1/SimpleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A3/ExceptionMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A3/Rethrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Exception/A3/WhoCalled.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/ji_ke_shi_jian/P7/A1/DivideByZeroException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/ji_ke_shi_jian/P7/A1/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/ji_ke_shi_jian/P7/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/ji_ke_shi_jian/P7/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/thread/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_synchronized/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_synchronized/T2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_reflection/A2/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Learn_reflection/A2/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Learn_reflection/A2/Data.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -378,6 +357,7 @@
       <workItem from="1584599880465" duration="15189000" />
       <workItem from="1584676554011" duration="15072000" />
       <workItem from="1584780141215" duration="10576000" />
+      <workItem from="1584847172358" duration="3038000" />
     </task>
     <servers />
   </component>
