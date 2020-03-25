@@ -84,6 +84,7 @@ public class SimpleLexer {
             //StringBuffer tokenText
             token.text = tokenText.toString();
             tokens.add(token);
+            System.out.println("token  ------" + token);
 
             tokenText = new StringBuffer();
             token = new SimpleToken();
@@ -243,6 +244,7 @@ public class SimpleLexer {
             }
             // 把最后一个token送进去
             if (tokenText.length() > 0) {
+                System.out.println("last" + tokenText.toString());
                 initToken(ch);
             }
         } catch (IOException e) {
@@ -271,6 +273,15 @@ public class SimpleLexer {
         @Override
         public String getText() {
             return text;
+        }
+
+
+        @Override
+        public String toString() {
+            return "SimpleToken{" +
+                    "type=" + type +
+                    ", text='" + text + '\'' +
+                    '}';
         }
     }
 

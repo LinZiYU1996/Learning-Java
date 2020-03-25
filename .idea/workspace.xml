@@ -2,20 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/Duck_typing/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/Duck_typing/Sparrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/Duck_typing/examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/the_demo_from_google_bolg/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/the_demo_from_google_bolg/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/the_demo_from_google_bolg/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/the_demo_from_google_bolg/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/the_problemInMethodHandle/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/the_problemInMethodHandle/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_MethodHandle/A1/the_problemInMethodHandle/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/SimpleLexicalAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/Test_CharArrayReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/TokenType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_Syntactic_sugar/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_Syntactic_sugar/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_Syntactic_sugar/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_Syntactic_sugar/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_Syntactic_sugar/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_invokedynamic/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_invokedynamic/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/jvm/Learn_invokedynamic/T2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/SimpleLexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/SimpleLexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer$DfaState.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer$DfaState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer$SimpleToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer$SimpleToken.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer$SimpleTokenReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer$SimpleTokenReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/SimpleLexer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +44,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="TypeScript File" />
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -90,7 +95,7 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T4">
+  <component name="RunManager" selected="Application.SimpleLexicalAnalyzer">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -111,13 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MHD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.Learn_MethodHandle.A1.the_demo_from_google_bolg.MHD" />
+    <configuration name="SimpleLexer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learn_Compile.Demo1.SimpleLexer" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jvm.Learn_MethodHandle.A1.the_demo_from_google_bolg.*" />
+          <option name="PATTERN" value="Learn_Compile.Demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,13 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.Learn_MethodHandle.A1.T2" />
+    <configuration name="SimpleLexicalAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learn_Compile.Demo1.A1.SimpleLexicalAnalyzer" />
       <module name="Learning-Java" />
-      <option name="VM_PARAMETERS" value=" -XX:+UnlockDiagnosticVMOptions -XX:+ShowHiddenFrames" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jvm.Learn_MethodHandle.A1.*" />
+          <option name="PATTERN" value="Learn_Compile.Demo1.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,13 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.Learn_MethodHandle.A1.the_demo_from_google_bolg.T2" />
+    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.Learn_invokedynamic.T1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jvm.Learn_MethodHandle.A1.the_demo_from_google_bolg.*" />
+          <option name="PATTERN" value="jvm.Learn_invokedynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.Learn_MethodHandle.A1.the_demo_from_google_bolg.T3" />
+    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jvm.Learn_invokedynamic.T2" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jvm.Learn_MethodHandle.A1.the_demo_from_google_bolg.*" />
+          <option name="PATTERN" value="jvm.Learn_invokedynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,20 +186,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jvm.Learn_MethodHandle.A1.the_demo_from_google_bolg.T4" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jvm.Learn_MethodHandle.A1.the_demo_from_google_bolg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestClassLoad" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.Learn_invoke.TestClassLoad" />
       <module name="Learning-Java" />
@@ -202,6 +193,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="better_write.Learn_reflection.Learn_invoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_CharArrayReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Learn_Compile.Demo1.A1.Test_CharArrayReader" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Learn_Compile.Demo1.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,19 +264,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.T2 (1)" />
-      <item itemvalue="Application.MHD" />
-      <item itemvalue="Application.T2 (2)" />
-      <item itemvalue="Application.T3 (1)" />
-      <item itemvalue="Application.T4" />
+      <item itemvalue="Application.T1" />
+      <item itemvalue="Application.T2" />
+      <item itemvalue="Application.Test_CharArrayReader" />
+      <item itemvalue="Application.SimpleLexer" />
+      <item itemvalue="Application.SimpleLexicalAnalyzer" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T4" />
-        <item itemvalue="Application.T3 (1)" />
-        <item itemvalue="Application.T2 (2)" />
-        <item itemvalue="Application.MHD" />
-        <item itemvalue="Application.T2 (1)" />
+        <item itemvalue="Application.SimpleLexicalAnalyzer" />
+        <item itemvalue="Application.SimpleLexer" />
+        <item itemvalue="Application.Test_CharArrayReader" />
+        <item itemvalue="Application.T2" />
+        <item itemvalue="Application.T1" />
       </list>
     </recent_temporary>
   </component>
@@ -402,6 +407,7 @@
       <workItem from="1584780141215" duration="10576000" />
       <workItem from="1584847172358" duration="3038000" />
       <workItem from="1584945044271" duration="9765000" />
+      <workItem from="1585012738083" duration="19439000" />
     </task>
     <servers />
   </component>
@@ -426,11 +432,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584950384049" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1584794434602">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1585034326078">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1584794434602" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585034326078" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -447,42 +453,42 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584950371998" />
-    <state width="914" height="516" key="GridCell.Tab.0.bottom" timestamp="1584967422750">
+    <state width="1877" height="362" key="GridCell.Tab.0.bottom" timestamp="1585054975302">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="516" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584967422750" />
-    <state width="914" height="516" key="GridCell.Tab.0.center" timestamp="1584967422750">
+    <state width="1877" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585054975302" />
+    <state width="1877" height="362" key="GridCell.Tab.0.center" timestamp="1585054975302">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="516" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584967422750" />
-    <state width="914" height="516" key="GridCell.Tab.0.left" timestamp="1584967422750">
+    <state width="1877" height="362" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585054975302" />
+    <state width="1877" height="362" key="GridCell.Tab.0.left" timestamp="1585054975301">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="516" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584967422750" />
-    <state width="914" height="516" key="GridCell.Tab.0.right" timestamp="1584967422750">
+    <state width="1877" height="362" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585054975301" />
+    <state width="1877" height="362" key="GridCell.Tab.0.right" timestamp="1585054975302">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="516" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584967422750" />
-    <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1584629130310">
+    <state width="1877" height="362" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585054975302" />
+    <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1584629130310" />
-    <state width="1877" height="362" key="GridCell.Tab.1.center" timestamp="1584629130310">
+    <state width="1877" height="362" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585054975303" />
+    <state width="1877" height="362" key="GridCell.Tab.1.center" timestamp="1585054975302">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="362" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1584629130310" />
-    <state width="1877" height="362" key="GridCell.Tab.1.left" timestamp="1584629130310">
+    <state width="1877" height="362" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585054975302" />
+    <state width="1877" height="362" key="GridCell.Tab.1.left" timestamp="1585054975302">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="362" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1584629130310" />
-    <state width="1877" height="362" key="GridCell.Tab.1.right" timestamp="1584629130310">
+    <state width="1877" height="362" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585054975302" />
+    <state width="1877" height="362" key="GridCell.Tab.1.right" timestamp="1585054975302">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="362" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1584629130310" />
+    <state width="1877" height="362" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585054975302" />
     <state x="757" y="251" key="RollbackChangesDialog" timestamp="1584362053603">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
