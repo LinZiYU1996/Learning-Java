@@ -13,8 +13,4 @@ public enum TokenType {
 
     Int
 
-
-
-
-
 }
