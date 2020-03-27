@@ -12,10 +12,7 @@ public class T4 {
 
 
     public static void main(String[] args) {
-
-
         //字符串常量的累计
-
 
         String s = "a" + "b" + "c";
 

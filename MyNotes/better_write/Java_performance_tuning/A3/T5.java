@@ -14,8 +14,6 @@ public class T5 {
     public static void main(String[] args) {
 
         //字符串变量的累计
-
-
         String str = "abcdef";
 
         for(int i=0; i<1000; i++) {

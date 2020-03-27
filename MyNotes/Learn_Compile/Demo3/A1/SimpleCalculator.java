@@ -27,7 +27,7 @@ public class SimpleCalculator {
      * 实现一个计算器，但计算的结合性是有问题的。因为它使用了下面的语法规则：
      *
      * additive -> multiplicative | multiplicative + additive
-     * multiplicative -> primary | primary * multiplicative    //感谢@Void_seT，原来写成+号了，写错了。
+     * multiplicative -> primary | primary * multiplicative    //
      *
      * 递归项在右边，会自然的对应右结合。我们真正需要的是左结合。
      */
@@ -63,6 +63,59 @@ public class SimpleCalculator {
             System.out.println("\n计算: " + script + "，结合性出现错误。");
             calculator.evaluate(script);
         }
+
+
+        //解析变量声明语句: int a = b+3;
+    //IntDeclaration a
+    //	Additive +
+    //		Identifier b
+    //		IntLiteral 3
+    //
+    //计算: 2+3*5，看上去一切正常。
+    //Programm Calculator
+    //	Additive +
+    //		IntLiteral 2
+    //		Multiplicative *
+    //			IntLiteral 3
+    //			IntLiteral 5
+    //Calculating: Programm
+    //	Calculating: Additive
+    //		Calculating: IntLiteral
+    //		Result: 2
+    //		Calculating: Multiplicative
+    //			Calculating: IntLiteral
+    //			Result: 3
+    //			Calculating: IntLiteral
+    //			Result: 5
+    //		Result: 15
+    //	Result: 17
+    //Result: 17
+    //
+    //: 2+，应该有语法错误。
+    //invalid additive expression, expecting the right part.
+    //
+    //计算: 2+3+4，结合性出现错误。
+    //Programm Calculator
+    //	Additive +
+    //		IntLiteral 2
+    //		Additive +
+    //			IntLiteral 3
+    //			IntLiteral 4
+    //Calculating: Programm
+    //	Calculating: Additive
+    //		Calculating: IntLiteral
+    //		Result: 2
+    //		Calculating: Additive
+    //			Calculating: IntLiteral
+    //			Result: 3
+    //			Calculating: IntLiteral
+    //			Result: 4
+    //		Result: 7
+    //	Result: 9
+    //Result: 9
+
+
+
 
         /**
          * 执行脚本，并打印输出AST和求值过程。
@@ -169,6 +222,8 @@ public class SimpleCalculator {
             SimpleASTNode node = null;
             Token token = tokens.peek();    //预读
             if (token != null && token.getType() == TokenType.Int) {   //匹配Int
+
+
                 token = tokens.read();      //消耗掉int
                 if (tokens.peek().getType() == TokenType.Identifier) { //匹配标识符
                     token = tokens.read();  //消耗掉标识符
@@ -198,6 +253,9 @@ public class SimpleCalculator {
                     }
                 }
             }
+
+
+
             return node;
         }
 

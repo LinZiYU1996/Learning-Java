@@ -2,30 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo3/A1/ASTNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo3/A1/ASTNodeType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo3/A1/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/MeiTuan/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/MeiTuan/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A5/test/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A5/test/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A5/test/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A6/test/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A6/test/IteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A6/test/ParallelStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A6/test/SerialStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A6/test/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/Demo1/T1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/SimpleLexicalAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/SimpleLexicalAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/Token.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/A1/TokenType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/A1/SimpleLexicalAnalyzer.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo1/A1/SimpleLexicalAnalyzer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/SimpleLexer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo1/SimpleLexer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo3/A1/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo3/A1/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T4.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T5.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_performance_tuning/A3/T5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_performance_tuning/A3/T4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_performance_tuning/A3/T4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_performance_tuning/A3/T5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_performance_tuning/A3/T5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +33,9 @@
       <list>
         <option value="Kotlin Class" />
         <option value="TypeScript File" />
-        <option value="Class" />
         <option value="Interface" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -177,13 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_performance_tuning.A3.MeiTuan.T2" />
+    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_performance_tuning.A3.Demo1.T1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_performance_tuning.A3.MeiTuan.*" />
+          <option name="PATTERN" value="better_write.Java_performance_tuning.A3.Demo1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,19 +253,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.T2" />
       <item itemvalue="Application.App" />
       <item itemvalue="Application.App (1)" />
       <item itemvalue="Application.SimpleLexicalAnalyzer" />
       <item itemvalue="Application.SimpleCalculator" />
+      <item itemvalue="Application.T1" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.SimpleCalculator" />
+        <item itemvalue="Application.T1" />
         <item itemvalue="Application.SimpleLexicalAnalyzer" />
         <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.T2" />
       </list>
     </recent_temporary>
   </component>
@@ -414,6 +398,7 @@
       <workItem from="1584945044271" duration="9765000" />
       <workItem from="1585012738083" duration="19439000" />
       <workItem from="1585099891629" duration="11783000" />
+      <workItem from="1585189137623" duration="7966000" />
     </task>
     <servers />
   </component>
@@ -459,26 +444,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584950371998" />
-    <state width="1877" height="513" key="GridCell.Tab.0.bottom" timestamp="1585141395679">
+    <state width="1877" height="513" key="GridCell.Tab.0.bottom" timestamp="1585228363962">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="513" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585141395679" />
-    <state width="1877" height="513" key="GridCell.Tab.0.center" timestamp="1585141395678">
+    <state width="1877" height="513" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585228363962" />
+    <state width="1877" height="513" key="GridCell.Tab.0.center" timestamp="1585228363962">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="513" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585141395678" />
-    <state width="1877" height="513" key="GridCell.Tab.0.left" timestamp="1585141395676">
+    <state width="1877" height="513" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585228363962" />
+    <state width="1877" height="513" key="GridCell.Tab.0.left" timestamp="1585228363962">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="513" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585141395676" />
-    <state width="1877" height="513" key="GridCell.Tab.0.right" timestamp="1585141395678">
+    <state width="1877" height="513" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585228363962" />
+    <state width="1877" height="513" key="GridCell.Tab.0.right" timestamp="1585228363962">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="513" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585141395678" />
+    <state width="1877" height="513" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585228363962" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
