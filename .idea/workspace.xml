@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/data_structure/Learn_HashMap/A1/Obj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/data_structure/Learn_HashMap/A1/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/A1/DifFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/A1/DirList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/A1/DirList2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/A2/Directory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/File_API/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/File_API/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/File_API/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/File_API/T5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/File_API/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/File_API/aa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/FilenameFilter_API/Demp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/BufferedInputStream_API/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/ByteArrayInputStream_API/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/ByteArrayInputStream_API/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/ByteArrayInputStream_API/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/ByteArrayInputStream_API/Demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/FileInputStream_API/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/FileInputStream_API/aa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Java_Thinking/A1/BasicFileOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Java_Thinking/A1/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Java_Thinking/A1/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Java_Thinking/A1/Demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Java_Thinking/A1/FileOutputShrotcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Java_Thinking/A1/StoringAndRecoveringData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Java_Thinking/A1/TestEof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Learn_byte/A1/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/newFile.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +75,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -79,20 +109,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T">
+  <component name="RunManager" selected="Application.StoringAndRecoveringData">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_performance_tuning.A6.test.App" />
+    <configuration name="BasicFileOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Java_Thinking.A1.BasicFileOut" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_performance_tuning.A6.test.*" />
+          <option name="PATTERN" value="better_write.Java_IO.Java_Thinking.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,13 +144,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learn_Compile.Demo3.A1.SimpleCalculator" />
+    <configuration name="Demo3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Java_Thinking.A1.Demo3" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Learn_Compile.Demo3.A1.*" />
+          <option name="PATTERN" value="better_write.Java_IO.Java_Thinking.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,13 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleLexicalAnalyzer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Learn_Compile.Demo1.A1.SimpleLexicalAnalyzer" />
+    <configuration name="DirList" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.A1.DirList" />
       <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PROGRAM_PARAMETERS" value=".java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Learn_Compile.Demo1.A1.*" />
+          <option name="PATTERN" value="better_write.Java_IO.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,13 +172,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.Learn_HashMap.A1.T" />
+    <configuration name="FileOutputShrotcut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Java_Thinking.A1.FileOutputShrotcut" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="data_structure.Learn_HashMap.A1.*" />
+          <option name="PATTERN" value="better_write.Java_IO.Java_Thinking.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,13 +186,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_performance_tuning.A3.Demo1.T1" />
+    <configuration name="StoringAndRecoveringData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Java_Thinking.A1.StoringAndRecoveringData" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_performance_tuning.A3.Demo1.*" />
+          <option name="PATTERN" value="better_write.Java_IO.Java_Thinking.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,6 +221,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="better_write.Learn_reflection.Learn_invoke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEof" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Java_Thinking.A1.TestEof" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Java_IO.Java_Thinking.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,23 +288,24 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DirList" />
       <item itemvalue="Application.T3" />
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.App (1)" />
-      <item itemvalue="Application.SimpleLexicalAnalyzer" />
-      <item itemvalue="Application.SimpleCalculator" />
-      <item itemvalue="Application.T1" />
-      <item itemvalue="Application.T" />
+      <item itemvalue="Application.Demo3 (1)" />
+      <item itemvalue="Application.TestEof" />
+      <item itemvalue="Application.BasicFileOut" />
+      <item itemvalue="Application.FileOutputShrotcut" />
+      <item itemvalue="Application.StoringAndRecoveringData" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T" />
-        <item itemvalue="Application.SimpleCalculator" />
-        <item itemvalue="Application.T1" />
-        <item itemvalue="Application.SimpleLexicalAnalyzer" />
-        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.StoringAndRecoveringData" />
+        <item itemvalue="Application.FileOutputShrotcut" />
+        <item itemvalue="Application.BasicFileOut" />
+        <item itemvalue="Application.TestEof" />
+        <item itemvalue="Application.Demo3 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -395,6 +440,7 @@
       <workItem from="1585099891629" duration="11783000" />
       <workItem from="1585189137623" duration="7966000" />
       <workItem from="1585273765163" duration="12823000" />
+      <workItem from="1585359254616" duration="18837000" />
     </task>
     <servers />
   </component>
@@ -414,16 +460,19 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584950384049">
+    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585367086393">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584950384049" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1585034326078">
+    <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585367086393" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1585380237106">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585034326078" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1585380237106" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -440,26 +489,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584950371998" />
-    <state width="1877" height="503" key="GridCell.Tab.0.bottom" timestamp="1585317009258">
+    <state width="914" height="488" key="GridCell.Tab.0.bottom" timestamp="1585403152563">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="503" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585317009258" />
-    <state width="1877" height="503" key="GridCell.Tab.0.center" timestamp="1585317009258">
+    <state width="914" height="488" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585403152563" />
+    <state width="914" height="488" key="GridCell.Tab.0.center" timestamp="1585403152563">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="503" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585317009258" />
-    <state width="1877" height="503" key="GridCell.Tab.0.left" timestamp="1585317009258">
+    <state width="914" height="488" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585403152563" />
+    <state width="914" height="488" key="GridCell.Tab.0.left" timestamp="1585403152563">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="503" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585317009258" />
-    <state width="1877" height="503" key="GridCell.Tab.0.right" timestamp="1585317009258">
+    <state width="914" height="488" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585403152563" />
+    <state width="914" height="488" key="GridCell.Tab.0.right" timestamp="1585403152563">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="503" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585317009258" />
+    <state width="914" height="488" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585403152563" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -490,11 +539,11 @@
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
     <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1583938677974" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1584428031837">
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1585381957386">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1584428031837" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1585381957386" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
