@@ -327,11 +327,13 @@ public class SimpleCalculator {
                     token = tokens.read();
                     node = new SimpleASTNode(ASTNodeType.Identifier, token.getText());
                 } else if (token.getType() == TokenType.LeftParen) {
+                    System.out.println("???");
                     tokens.read();
                     node = additive(tokens);
                     if (node != null) {
                         token = tokens.peek();
                         if (token != null && token.getType() == TokenType.RightParen) {
+                            System.out.println("???");
                             tokens.read();
                         } else {
                             throw new Exception("expecting right parenthesis");
@@ -340,6 +342,9 @@ public class SimpleCalculator {
                         throw new Exception("expecting an additive expression inside parenthesis");
                     }
                 }
+
+
+
             }
             return node;  //这个方法也做了AST的简化，就是不用构造一个primary节点，直接返回子节点。因为它只有一个子节点。
         }

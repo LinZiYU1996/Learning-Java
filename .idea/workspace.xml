@@ -2,30 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A1/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A1/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A1/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A1/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A2/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A2/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Byte_Char_Arrays/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Byte_Char_Arrays/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Byte_Char_Arrays/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Byte_Char_Arrays/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/DataInputStream_API/Close_Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/DataInputStream_API/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/DataInputStream_API/data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Readers_and_Writers/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Readers_and_Writers/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/bb.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/c.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/d.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A3/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A3/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A3/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A3/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A3/T5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A3/T6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A4/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A4/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A4/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A4/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A4/T5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A5/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A5/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A5/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A5/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A6/D1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A6/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/Blog/A6/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/f.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/op.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/t1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/t2.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/InputStream_API/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_IO/InputStream_API/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_IO/InputStream_API/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_IO/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_IO/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo3/A1/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/Learn_Compile/Demo3/A1/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_IO/d.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo3/A1/SimpleCalculator$SimpleASTNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo3/A1/SimpleCalculator$SimpleASTNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo3/A1/SimpleCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/Learn_Compile/Demo3/A1/SimpleCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_IO/d.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Java_IO/d.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +53,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="TypeScript File" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -101,7 +105,7 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.T2">
+  <component name="RunManager" selected="Application.T2 (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -115,6 +119,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="jvm.oracleDocument.A1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A6.D1" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Java_IO.Blog.A6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,13 +154,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A2.T1" />
+    <configuration name="T1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A6.T1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_IO.Blog.A2.*" />
+          <option name="PATTERN" value="better_write.Java_IO.Blog.A6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,27 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A1.T2" />
+    <configuration name="T2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A6.T2" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_IO.Blog.A1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A2.T2" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Java_IO.Blog.A2.*" />
+          <option name="PATTERN" value="better_write.Java_IO.Blog.A6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +183,12 @@
       </method>
     </configuration>
     <configuration name="T3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A1.T3" />
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A5.T3" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_IO.Blog.A1.*" />
+          <option name="PATTERN" value="better_write.Java_IO.Blog.A5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -207,12 +211,12 @@
       </method>
     </configuration>
     <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A1.T4" />
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.Blog.A5.T4" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_IO.Blog.A1.*" />
+          <option name="PATTERN" value="better_write.Java_IO.Blog.A5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,19 +289,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.T2 (2)" />
       <item itemvalue="Application.T3 (1)" />
       <item itemvalue="Application.T4" />
-      <item itemvalue="Application.T1" />
-      <item itemvalue="Application.T2" />
+      <item itemvalue="Application.T1 (1)" />
+      <item itemvalue="Application.D1" />
+      <item itemvalue="Application.T2 (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T2" />
-        <item itemvalue="Application.T1" />
+        <item itemvalue="Application.T2 (1)" />
+        <item itemvalue="Application.T1 (1)" />
+        <item itemvalue="Application.D1" />
         <item itemvalue="Application.T4" />
         <item itemvalue="Application.T3 (1)" />
-        <item itemvalue="Application.T2 (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -434,6 +438,7 @@
       <workItem from="1585273765163" duration="12823000" />
       <workItem from="1585359254616" duration="18837000" />
       <workItem from="1585445396122" duration="10208000" />
+      <workItem from="1585532918827" duration="19255000" />
     </task>
     <servers />
   </component>
@@ -482,26 +487,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584950371998" />
-    <state width="1877" height="485" key="GridCell.Tab.0.bottom" timestamp="1585488541674">
+    <state width="1877" height="473" key="GridCell.Tab.0.bottom" timestamp="1585574464607">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="485" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585488541674" />
-    <state width="1877" height="485" key="GridCell.Tab.0.center" timestamp="1585488541674">
+    <state width="1877" height="473" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1585574464607" />
+    <state width="1877" height="473" key="GridCell.Tab.0.center" timestamp="1585574464607">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="485" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585488541674" />
-    <state width="1877" height="485" key="GridCell.Tab.0.left" timestamp="1585488541674">
+    <state width="1877" height="473" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1585574464607" />
+    <state width="1877" height="473" key="GridCell.Tab.0.left" timestamp="1585574464607">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="485" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585488541674" />
-    <state width="1877" height="485" key="GridCell.Tab.0.right" timestamp="1585488541674">
+    <state width="1877" height="473" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1585574464607" />
+    <state width="1877" height="473" key="GridCell.Tab.0.right" timestamp="1585574464607">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="485" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585488541674" />
+    <state width="1877" height="473" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1585574464607" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
