@@ -1,1 +1,3 @@
-123456789
+helloworld
+文件名称:bb.txt
+Aabcde
