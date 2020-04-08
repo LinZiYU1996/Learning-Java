@@ -2,25 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P3/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P3/C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P3/C4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P3/S1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P3/S2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P3/S4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P3/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P4/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P4/C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P4/S1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P4/S2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P4/Sthread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P4/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P5/C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P5/C2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P5/S1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P5/S2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P6/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P6/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/C3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/S1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/S2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/S3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/C1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/Con1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P9/C3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P9/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P9/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P9/T3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,48 +104,20 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C1">
+  <component name="RunManager" selected="Application.C3">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P6.C1" />
+    <configuration name="C3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P9.C3" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_Socket.P6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P5.C2" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Java_Socket.P5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P5.C2_2" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Java_Socket.P5.*" />
+          <option name="PATTERN" value="better_write.Java_Socket.P9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,13 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P5.S2" />
+    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P9.T1" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_Socket.P5.*" />
+          <option name="PATTERN" value="better_write.Java_Socket.P9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,13 +167,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P6.T1" />
+    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P9.T2" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_Socket.P6.*" />
+          <option name="PATTERN" value="better_write.Java_Socket.P9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T3 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P9.T3" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Java_Socket.P9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,6 +202,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="book_jvm.P10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P8.T5" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Java_Socket.P8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,19 +288,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.C2 (1)" />
-      <item itemvalue="Application.S2 (1)" />
-      <item itemvalue="Application.C2_2" />
+      <item itemvalue="Application.T5" />
       <item itemvalue="Application.T1" />
-      <item itemvalue="Application.C1" />
+      <item itemvalue="Application.T2" />
+      <item itemvalue="Application.T3 (2)" />
+      <item itemvalue="Application.C3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C1" />
+        <item itemvalue="Application.C3" />
+        <item itemvalue="Application.T3 (2)" />
+        <item itemvalue="Application.T2" />
         <item itemvalue="Application.T1" />
-        <item itemvalue="Application.C2_2" />
-        <item itemvalue="Application.S2 (1)" />
-        <item itemvalue="Application.C2 (1)" />
+        <item itemvalue="Application.T5" />
       </list>
     </recent_temporary>
   </component>
@@ -441,6 +448,8 @@
       <workItem from="1586137466586" duration="2322000" />
       <workItem from="1586143443712" duration="2671000" />
       <workItem from="1586176752278" duration="3574000" />
+      <workItem from="1586222191477" duration="5748000" />
+      <workItem from="1586261171490" duration="2158000" />
     </task>
     <servers />
   </component>
@@ -468,19 +477,19 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585367086393" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1586177009940">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1586224146095">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586177009940" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586224146095" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1578538279767" />
-    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585481678290">
+    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586261529004">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1585481678290" />
+    <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586261529004" />
     <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584360926845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -489,26 +498,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584950371998" />
-    <state width="912" height="560" key="GridCell.Tab.0.bottom" timestamp="1586184977408">
+    <state width="914" height="291" key="GridCell.Tab.0.bottom" timestamp="1586269334447">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="912" height="560" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586184977408" />
-    <state width="912" height="560" key="GridCell.Tab.0.center" timestamp="1586184977408">
+    <state width="914" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586269334447" />
+    <state width="914" height="291" key="GridCell.Tab.0.center" timestamp="1586269334447">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="912" height="560" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586184977408" />
-    <state width="912" height="560" key="GridCell.Tab.0.left" timestamp="1586184977408">
+    <state width="914" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586269334447" />
+    <state width="914" height="291" key="GridCell.Tab.0.left" timestamp="1586269334447">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="912" height="560" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586184977408" />
-    <state width="912" height="560" key="GridCell.Tab.0.right" timestamp="1586184977408">
+    <state width="914" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586269334447" />
+    <state width="914" height="291" key="GridCell.Tab.0.right" timestamp="1586269334447">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="912" height="560" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586184977408" />
+    <state width="914" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586269334447" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -539,11 +548,11 @@
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1578536455977" />
     <state x="531" y="246" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586054398429" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1586053718643">
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1586227798453">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
-    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586053718643" />
+    <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586227798453" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Learning_Java$StaticInitialization.ic" NAME="StaticInitialization Coverage Results" MODIFIED="1578924071663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
