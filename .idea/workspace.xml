@@ -2,32 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/C3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/S1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/S2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/S3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P7/T9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/Con1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P8/T5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P9/C3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P9/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P9/T2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Java_Socket/P9/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_IO_Blog/Demo_1/CrunchifyNIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_IO_Blog/Demo_1/CrunchifyNIOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_IO_Blog/Demo_1/IOServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_IO_Blog/Demo_1/NIOClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_IO_Blog/Demo_1/T1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +83,7 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C3">
+  <component name="RunManager" selected="Application.CrunchifyNIOClient">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -139,13 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DirList" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.A1.DirList" />
+    <configuration name="CrunchifyNIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_IO_Blog.Demo_1.CrunchifyNIOClient" />
       <module name="Learning-Java" />
-      <option name="PROGRAM_PARAMETERS" value=".java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_IO.A1.*" />
+          <option name="PATTERN" value="better_write.Learn_IO_Blog.Demo_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +132,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P9.T1" />
+    <configuration name="CrunchifyNIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_IO_Blog.Demo_1.CrunchifyNIOServer" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Java_Socket.P9.*" />
+          <option name="PATTERN" value="better_write.Learn_IO_Blog.Demo_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirList" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.A1.DirList" />
+      <module name="Learning-Java" />
+      <option name="PROGRAM_PARAMETERS" value=".java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Java_IO.A1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,20 +195,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="book_jvm.P10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Java_Socket.P8.T5" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Java_Socket.P8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,19 +267,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.T5" />
-      <item itemvalue="Application.T1" />
       <item itemvalue="Application.T2" />
       <item itemvalue="Application.T3 (2)" />
       <item itemvalue="Application.C3" />
+      <item itemvalue="Application.CrunchifyNIOServer" />
+      <item itemvalue="Application.CrunchifyNIOClient" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CrunchifyNIOClient" />
+        <item itemvalue="Application.CrunchifyNIOServer" />
         <item itemvalue="Application.C3" />
         <item itemvalue="Application.T3 (2)" />
         <item itemvalue="Application.T2" />
-        <item itemvalue="Application.T1" />
-        <item itemvalue="Application.T5" />
       </list>
     </recent_temporary>
   </component>
@@ -450,6 +429,8 @@
       <workItem from="1586176752278" duration="3574000" />
       <workItem from="1586222191477" duration="5748000" />
       <workItem from="1586261171490" duration="2158000" />
+      <workItem from="1586307962849" duration="3113000" />
+      <workItem from="1586349412424" duration="1957000" />
     </task>
     <servers />
   </component>
@@ -498,26 +479,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1584950371998" />
-    <state width="914" height="291" key="GridCell.Tab.0.bottom" timestamp="1586269334447">
+    <state width="913" height="291" key="GridCell.Tab.0.bottom" timestamp="1586318360896">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586269334447" />
-    <state width="914" height="291" key="GridCell.Tab.0.center" timestamp="1586269334447">
+    <state width="913" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586318360896" />
+    <state width="913" height="291" key="GridCell.Tab.0.center" timestamp="1586318360895">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586269334447" />
-    <state width="914" height="291" key="GridCell.Tab.0.left" timestamp="1586269334447">
+    <state width="913" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586318360895" />
+    <state width="913" height="291" key="GridCell.Tab.0.left" timestamp="1586318360895">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586269334447" />
-    <state width="914" height="291" key="GridCell.Tab.0.right" timestamp="1586269334447">
+    <state width="913" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586318360895" />
+    <state width="913" height="291" key="GridCell.Tab.0.right" timestamp="1586318360896">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586269334447" />
+    <state width="913" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586318360896" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
