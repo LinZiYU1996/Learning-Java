@@ -45,6 +45,7 @@ close connection
         // Adjusts this channel's blocking mode.
         crunchifySocket.configureBlocking(false);
 
+
         int ops = crunchifySocket.validOps();
         SelectionKey selectKy = crunchifySocket.register(selector, ops, null);
 
