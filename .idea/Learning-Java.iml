@@ -8,5 +8,23 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library name="Netty">
+        <CLASSES>
+          <root url="jar://D:/util/jar/netty-4.1.48.Final/netty-4.1.48.Final/jar/all-in-one/netty-all-4.1.48.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="NettyDoc">
+        <CLASSES />
+        <JAVADOC>
+          <root url="jar://D:/util/jar/netty-4.1.48.Final/netty-4.1.48.Final/javadoc/netty-all-4.1.48.Final-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
