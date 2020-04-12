@@ -2,34 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/netty_all_4_1_48_Final_sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter1/Demo1/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter2/Demo1/EchoClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter2/Demo1/EchoClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter2/Demo1/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter2/Demo1/EchoServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter4/Demo1/NettyNioServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter4/Demo1/NettyOioServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter4/Demo1/PlainNioServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/Chapter4/Demo1/PlainOioServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P1/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P1/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P1/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P1/T4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P1/T5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P1/T6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P1/T7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P1/T8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P2/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P2/T2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P2/T3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/ByteBuf_api/P2/T4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Learning-Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning-Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +64,7 @@
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/util/jar/netty-4.1.48.Final/netty-4.1.48.Final/javadoc/netty-all-4.1.48.Final-javadoc.jar!/" />
+    <property name="last_opened_file_path" value="D:/util/jar/netty-4.1.48.Final/netty-4.1.48.Final/jar/all-in-one/netty-all-4.1.48.Final-sources.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -105,7 +91,7 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EchoServer">
+  <component name="RunManager" selected="Application.T4">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -119,20 +105,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="jvm.oracleDocument.A1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Wireshark.Client" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Learn_Wireshark.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,41 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Netty.Chapter2.Demo1.EchoClient" />
-      <module name="Learning-Java" />
-      <option name="PROGRAM_PARAMETERS" value="127.0.0.1 9966" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Learn_Netty.Chapter2.Demo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Netty.Chapter2.Demo1.EchoServer" />
-      <module name="Learning-Java" />
-      <option name="PROGRAM_PARAMETERS" value="9966" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Learn_Netty.Chapter2.Demo1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_IO_Blog.Demo2.IOClient" />
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Netty.My.ByteBuf_api.P2.T" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Learn_IO_Blog.Demo2.*" />
+          <option name="PATTERN" value="better_write.Learn_Netty.My.ByteBuf_api.P2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -196,13 +140,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Wireshark.Server" />
+    <configuration name="T2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Netty.My.ByteBuf_api.P2.T2" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Learn_Wireshark.*" />
+          <option name="PATTERN" value="better_write.Learn_Netty.My.ByteBuf_api.P2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T3 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Netty.My.ByteBuf_api.P2.T3" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Learn_Netty.My.ByteBuf_api.P2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,6 +175,34 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="book_jvm.P10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Netty.My.ByteBuf_api.P2.T4" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Learn_Netty.My.ByteBuf_api.P2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Learn_Netty.My.ByteBuf_api.P1.T8" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Learn_Netty.My.ByteBuf_api.P1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,19 +275,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.IOClient" />
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.EchoServer" />
-      <item itemvalue="Application.EchoClient" />
+      <item itemvalue="Application.T8" />
+      <item itemvalue="Application.T" />
+      <item itemvalue="Application.T2" />
+      <item itemvalue="Application.T3 (1)" />
+      <item itemvalue="Application.T4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EchoClient" />
-        <item itemvalue="Application.EchoServer" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.IOClient" />
+        <item itemvalue="Application.T4" />
+        <item itemvalue="Application.T3 (1)" />
+        <item itemvalue="Application.T2" />
+        <item itemvalue="Application.T" />
+        <item itemvalue="Application.T8" />
       </list>
     </recent_temporary>
   </component>
@@ -455,6 +441,8 @@
       <workItem from="1586349412424" duration="1957000" />
       <workItem from="1586395760551" duration="5301000" />
       <workItem from="1586482370559" duration="8952000" />
+      <workItem from="1586569042138" duration="7054000" />
+      <workItem from="1586614119946" duration="1973000" />
     </task>
     <servers />
   </component>
@@ -487,10 +475,10 @@
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
     <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586489437905" />
-    <state x="661" y="145" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586491403344">
+    <state x="661" y="145" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586571969911">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="661" y="145" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586491403344" />
+    <state x="661" y="145" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586571969911" />
     <state x="449" y="159" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578538279767">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -503,30 +491,34 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584360926845" />
-    <state x="1154" y="295" key="FileChooserDialogImpl" timestamp="1586491357902">
+    <state x="561" y="189" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1586571930838">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586491357902" />
-    <state width="914" height="290" key="GridCell.Tab.0.bottom" timestamp="1586513856790">
+    <state x="561" y="189" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586571930838" />
+    <state x="1154" y="295" key="FileChooserDialogImpl" timestamp="1586614453172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586614453172" />
+    <state width="914" height="287" key="GridCell.Tab.0.bottom" timestamp="1586616771218">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="290" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586513856790" />
-    <state width="914" height="290" key="GridCell.Tab.0.center" timestamp="1586513856790">
+    <state width="914" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586616771218" />
+    <state width="914" height="287" key="GridCell.Tab.0.center" timestamp="1586616771217">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="290" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586513856790" />
-    <state width="914" height="290" key="GridCell.Tab.0.left" timestamp="1586513856789">
+    <state width="914" height="287" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586616771217" />
+    <state width="914" height="287" key="GridCell.Tab.0.left" timestamp="1586616771217">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="290" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586513856789" />
-    <state width="914" height="290" key="GridCell.Tab.0.right" timestamp="1586513856790">
+    <state width="914" height="287" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586616771217" />
+    <state width="914" height="287" key="GridCell.Tab.0.right" timestamp="1586616771218">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="290" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586513856790" />
+    <state width="914" height="287" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586616771218" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -547,11 +539,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="757" y="251" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584362053603" />
-    <state x="311" y="9" key="SettingsEditor" timestamp="1586491404128">
+    <state x="311" y="9" key="SettingsEditor" timestamp="1586571971011">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578984419069" />
-    <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586491404128" />
+    <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1586571971011" />
     <state x="531" y="246" key="run.anything.popup" timestamp="1586054398429">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
