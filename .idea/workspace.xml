@@ -2,31 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/CmdHandlerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/HttpAggregatorInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/HttpCompressionInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/HttpPipelineInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/HttpsCodecInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/IdleStateHandlerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/LengthBasedInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/LineBasedHandlerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/SslChannelInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/WebSocketConvertHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P2/WebSocketServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P3/ChunkedWriteHandlerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P3/MarshallingInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P3/ProtoBufInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Learn_Netty/My/Decoder_api/P3/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Http/package1/HttpServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Http/package1/HttpServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/mytry/package1/IO/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/mytry/package1/IO/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/mytry/package1/NIO/NIOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/mytry/package1/NIO/NIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/mytry/package1/the_Netty/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/mytry/package1/the_Netty/NeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/mytry/package1/the_Netty/NeServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/mytry/package1/the_Netty/ServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/Package1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/Package1/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/Package1/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/Package1/ServerHander.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/Package2/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/Package2/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/Package2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/Package2/ServerHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +86,7 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NeClient">
+  <component name="RunManager" selected="Application.Server (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -124,13 +107,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.mytry.package1.IO.Client" />
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.Tcp_Package.Package2.Client" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.mytry.package1.IO.*" />
+          <option name="PATTERN" value="better_write.Netty_Book.Tcp_Package.Package2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.Tcp_Package.Package1.Client" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Netty_Book.Tcp_Package.Package1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,34 +149,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NIOClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.mytry.package1.NIO.NIOClient" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.mytry.package1.NIO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NIOServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.mytry.package1.NIO.NIOServer" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.mytry.package1.NIO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.mytry.package1.the_Netty.NeClient" />
       <module name="Learning-Java" />
@@ -194,13 +163,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NeServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.mytry.package1.the_Netty.NeServer" />
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.Tcp_Package.Package2.Server" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.mytry.package1.the_Netty.*" />
+          <option name="PATTERN" value="better_write.Netty_Book.Tcp_Package.Package2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.Tcp_Package.Package1.Server" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Netty_Book.Tcp_Package.Package1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,19 +270,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.NIOServer" />
-      <item itemvalue="Application.NIOClient" />
-      <item itemvalue="Application.NeServer" />
       <item itemvalue="Application.NeClient" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Server (1)" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NeClient" />
-        <item itemvalue="Application.NeServer" />
-        <item itemvalue="Application.NIOClient" />
-        <item itemvalue="Application.NIOServer" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Server (1)" />
         <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.NeClient" />
       </list>
     </recent_temporary>
   </component>
@@ -460,6 +443,7 @@
       <workItem from="1586742561744" duration="7587000" />
       <workItem from="1586824653593" duration="6398000" />
       <workItem from="1586863840322" duration="8812000" />
+      <workItem from="1586914245835" duration="6720000" />
     </task>
     <servers />
   </component>
@@ -487,11 +471,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586486922466" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1586873305966">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1586918341146">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586873305966" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1586918341146" />
     <state x="661" y="145" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586571969911">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -516,26 +500,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1586831292999" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1586874441696">
+    <state width="914" height="328" key="GridCell.Tab.0.bottom" timestamp="1586937350164">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586874441696" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1586874441696">
+    <state width="914" height="328" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1586937350164" />
+    <state width="914" height="328" key="GridCell.Tab.0.center" timestamp="1586937350164">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586874441696" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1586874441696">
+    <state width="914" height="328" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1586937350164" />
+    <state width="914" height="328" key="GridCell.Tab.0.left" timestamp="1586937350164">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586874441696" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1586874441696">
+    <state width="914" height="328" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1586937350164" />
+    <state width="914" height="328" key="GridCell.Tab.0.right" timestamp="1586937350164">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586874441696" />
+    <state width="914" height="328" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1586937350164" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
