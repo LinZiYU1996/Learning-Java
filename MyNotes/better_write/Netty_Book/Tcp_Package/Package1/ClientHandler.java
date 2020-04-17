@@ -24,6 +24,8 @@ public class ClientHandler extends ChannelInboundHandlerAdapter {
     private byte[] req;
 
     public ClientHandler() {
+        //System.getProperty("line.separator")).getBytes()
+        // 换行符,功能和"\n"是一致的,但是此种写法屏蔽了 Windows和Linux的区别 ，更保险一些.
         req = ("QUERY TIME ORDER" + System.getProperty("line.separator")).getBytes();
     }
 

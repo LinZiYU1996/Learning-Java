@@ -1,8 +1,9 @@
-package better_write.Netty_Book.Tcp_Package.Package1;
+package better_write.Netty_Book.Tcp_Package.my1;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelInitializer;
+import io.netty.channel.ChannelOption;
 import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
@@ -11,49 +12,59 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 /**
  * \* Created with IntelliJ IDEA.
  * \* User: LinZiYu
- * \* Date: 2020/4/15
- * \* Time: 9:53
+ * \* Date: 2020/4/16
+ * \* Time: 20:04
  * \* Description:
  * \
  */
 public class Server {
 
-    public void bind(int port) {
+    private int port;
 
-        EventLoopGroup bossG = new NioEventLoopGroup();
-        EventLoopGroup workerG = new NioEventLoopGroup();
+    public Server(int port) {
+        this.port = port;
+    }
+
+
+    public void run() {
+
+        EventLoopGroup boss = new NioEventLoopGroup();
+        EventLoopGroup worker = new NioEventLoopGroup();
+
+        ServerBootstrap sb = new ServerBootstrap();
 
         try {
-            ServerBootstrap s = new ServerBootstrap();
 
-            s.group(bossG,workerG)
+            sb.group(boss,worker)
                     .channel(NioServerSocketChannel.class)
-//                    .option(ChannelOption.SO_BACKLOG,1024)
+                    .option(ChannelOption.SO_BACKLOG,1024)
                     .childHandler(new ChannelInitializer<SocketChannel>() {
 
                         @Override
                         protected void initChannel(SocketChannel socketChannel) throws Exception {
-                            socketChannel.pipeline().addLast(new ServerHander());
+                            socketChannel.pipeline().addLast(new ServerHandler());
                         }
                     });
 
 
-            ChannelFuture future = s.bind(port).sync();
-            future.channel().closeFuture().sync();
+            ChannelFuture future = sb.bind(port).sync();
 
+            future.channel().closeFuture().sync();
         } catch (InterruptedException e) {
             e.printStackTrace();
         } finally {
-            bossG.shutdownGracefully();
-            workerG.shutdownGracefully();
+
+
+            boss.shutdownGracefully();
+            worker.shutdownGracefully();
         }
+
 
     }
 
     public static void main(String[] args) {
 
-        new Server().bind(6666);
+        new Server(9944).run();
 
     }
-
 }

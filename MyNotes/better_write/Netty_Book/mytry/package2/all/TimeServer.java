@@ -1,4 +1,4 @@
-package better_write.Netty_Book.Tcp_Package.Package1;
+package better_write.Netty_Book.mytry.package2.all;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
@@ -11,49 +11,48 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 /**
  * \* Created with IntelliJ IDEA.
  * \* User: LinZiYu
- * \* Date: 2020/4/15
- * \* Time: 9:53
+ * \* Date: 2020/4/16
+ * \* Time: 11:28
  * \* Description:
  * \
  */
-public class Server {
+public class TimeServer {
 
-    public void bind(int port) {
 
-        EventLoopGroup bossG = new NioEventLoopGroup();
-        EventLoopGroup workerG = new NioEventLoopGroup();
+    public static void main(String[] args) {
+
+        int port = 9966;
+
+        EventLoopGroup boss = new NioEventLoopGroup();
+        EventLoopGroup worker = new NioEventLoopGroup();
+
+        ServerBootstrap sb = new ServerBootstrap();
 
         try {
-            ServerBootstrap s = new ServerBootstrap();
 
-            s.group(bossG,workerG)
+            sb.group(boss,worker)
                     .channel(NioServerSocketChannel.class)
-//                    .option(ChannelOption.SO_BACKLOG,1024)
                     .childHandler(new ChannelInitializer<SocketChannel>() {
 
                         @Override
                         protected void initChannel(SocketChannel socketChannel) throws Exception {
-                            socketChannel.pipeline().addLast(new ServerHander());
+
+                            socketChannel.pipeline().addLast(
+                                    new TimeServerHandler()
+                            );
                         }
                     });
 
-
-            ChannelFuture future = s.bind(port).sync();
+            ChannelFuture future = sb.bind(port).sync();
             future.channel().closeFuture().sync();
-
         } catch (InterruptedException e) {
             e.printStackTrace();
         } finally {
-            bossG.shutdownGracefully();
-            workerG.shutdownGracefully();
+
+            boss.shutdownGracefully();
+            worker.shutdownGracefully();
+
         }
 
     }
-
-    public static void main(String[] args) {
-
-        new Server().bind(6666);
-
-    }
-
 }

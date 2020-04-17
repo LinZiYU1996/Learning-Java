@@ -25,6 +25,7 @@ public class Server {
     public void server_run() throws IOException {
         System.out.println("server");
         Socket socket = serverSocket.accept();
+        System.out.println(socket.hashCode());
         int len;
         byte[] data = new byte[1024];
         InputStream inputStream = socket.getInputStream();
