@@ -1,10 +1,15 @@
 package better_write.Netty_Book.Tcp_Package.package3;
 
 import io.netty.bootstrap.Bootstrap;
-import io.netty.channel.*;
+import io.netty.channel.ChannelFuture;
+import io.netty.channel.ChannelInitializer;
+import io.netty.channel.ChannelPipeline;
+import io.netty.channel.EventLoopGroup;
 import io.netty.channel.nio.NioEventLoopGroup;
 import io.netty.channel.socket.SocketChannel;
 import io.netty.channel.socket.nio.NioSocketChannel;
+import io.netty.handler.codec.LineBasedFrameDecoder;
+import io.netty.handler.codec.string.StringDecoder;
 
 /**
  * \* Created with IntelliJ IDEA.
@@ -29,8 +34,8 @@ public class Client {
                         protected void initChannel(SocketChannel ch) throws Exception {
 
                             ChannelPipeline p = ch.pipeline();
-//                            p.addLast(new LineBasedFrameDecoder(1024));
-//                            p.addLast(new StringDecoder());
+                            p.addLast(new LineBasedFrameDecoder(1024));
+                            p.addLast(new StringDecoder());
 //                            p.addLast(new StringEncoder());
 
                             p.addLast(new ClientHandler());

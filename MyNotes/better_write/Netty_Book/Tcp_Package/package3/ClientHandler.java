@@ -15,28 +15,21 @@ import io.netty.channel.ChannelInboundHandlerAdapter;
  */
 public class ClientHandler extends ChannelInboundHandlerAdapter {
 
-//    private Logger logger = LoggerFactory.getLogger(getClass());
-
     private int count =0;
 
     @Override
     public void channelActive(ChannelHandlerContext ctx) throws Exception {
         // Send the message to Server
         ByteBuf buf = null;
-        for(int i=0; i<10; i++){
+        for(int i=0; i<100; i++){
 
             String msg = "hello from client "+i + "\n";
             byte[] r = msg.getBytes();
             buf = Unpooled.buffer(r.length);
             buf.writeBytes(r);
            ctx.writeAndFlush(buf);
-//            System.out.println("client send message:{}   " + msg);
-
-
-//            ctx.writeAndFlush(msg+System.getProperty("line.separator"));
         }
 
-        System.out.println("out");
     }
 
     @Override
