@@ -2,28 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package1/EchoClinet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package1/EchoClinetHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package1/EchoServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package1/EchoServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package2/FixedServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package2/FixedServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package3/FixedLengthFrameDecoderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package3/FixedLengthFrameDecoderServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package4/LengthFieldBasedFrameDecoderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package4/LengthFieldBasedFrameDecoderServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package4/LengthFieldClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try/CLient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try/CLientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try/MyProtocol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try/ServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package5/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package5/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package5/MyProtocolBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package5/MyProtocolDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package5/MyProtocolEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package5/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package5/ServerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RcpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RcpClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RcpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RequestDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RequestEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RequestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RequestParam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/package3/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/package3/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/package3/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/package3/ClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/package3/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/package3/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/package3/ServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/Tcp_Package/package3/ServerHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/Client$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/Client$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/ClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/ClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/Server$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/Server.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/ServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/Tcp_Package/package3/ServerHandler.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,9 +97,23 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LengthFieldBasedFrameDecoderClient">
+  <component name="RunManager" selected="Application.CLient">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CLient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.my_try.CLient" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="better_write.Netty_Book.decoder.my_try.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -134,13 +146,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixedLengthFrameDecoderClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.package3.FixedLengthFrameDecoderClient" />
+    <configuration name="RcpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.package6.RcpClient" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.decoder.package3.*" />
+          <option name="PATTERN" value="better_write.Netty_Book.decoder.package6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,13 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixedLengthFrameDecoderServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.package3.FixedLengthFrameDecoderServer" />
+    <configuration name="RcpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.package6.RcpServer" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.decoder.package3.*" />
+          <option name="PATTERN" value="better_write.Netty_Book.decoder.package6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,13 +174,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FixedServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.package2.FixedServer" />
+    <configuration name="Server (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.my_try.Server" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.decoder.package2.*" />
+          <option name="PATTERN" value="better_write.Netty_Book.decoder.my_try.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,27 +188,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthFieldBasedFrameDecoderClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.package4.LengthFieldBasedFrameDecoderClient" />
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.package5.Server" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.decoder.package4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LengthFieldBasedFrameDecoderServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.decoder.package4.LengthFieldBasedFrameDecoderServer" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.decoder.package4.*" />
+          <option name="PATTERN" value="better_write.Netty_Book.decoder.package5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,19 +281,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.FixedServer" />
-      <item itemvalue="Application.FixedLengthFrameDecoderServer" />
-      <item itemvalue="Application.FixedLengthFrameDecoderClient" />
-      <item itemvalue="Application.LengthFieldBasedFrameDecoderServer" />
-      <item itemvalue="Application.LengthFieldBasedFrameDecoderClient" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.CLient" />
+      <item itemvalue="Application.Server (1)" />
+      <item itemvalue="Application.RcpServer" />
+      <item itemvalue="Application.RcpClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LengthFieldBasedFrameDecoderClient" />
-        <item itemvalue="Application.LengthFieldBasedFrameDecoderServer" />
-        <item itemvalue="Application.FixedLengthFrameDecoderClient" />
-        <item itemvalue="Application.FixedLengthFrameDecoderServer" />
-        <item itemvalue="Application.FixedServer" />
+        <item itemvalue="Application.CLient" />
+        <item itemvalue="Application.Server (1)" />
+        <item itemvalue="Application.RcpClient" />
+        <item itemvalue="Application.RcpServer" />
+        <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>
   </component>
@@ -460,6 +458,7 @@
       <workItem from="1586999961095" duration="8890000" />
       <workItem from="1587038020423" duration="6690000" />
       <workItem from="1587087035829" duration="10104000" />
+      <workItem from="1587173245189" duration="9155000" />
     </task>
     <servers />
   </component>
@@ -487,11 +486,11 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586486922466" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1587116400355">
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1587180819517">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587116400355" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587180819517" />
     <state x="661" y="145" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586571969911">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -520,26 +519,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1587040982797" />
-    <state width="914" height="345" key="GridCell.Tab.0.bottom" timestamp="1587123441491">
+    <state width="914" height="378" key="GridCell.Tab.0.bottom" timestamp="1587204619341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="345" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587123441491" />
-    <state width="914" height="345" key="GridCell.Tab.0.center" timestamp="1587123441491">
+    <state width="914" height="378" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587204619341" />
+    <state width="914" height="378" key="GridCell.Tab.0.center" timestamp="1587204619341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="345" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587123441491" />
-    <state width="914" height="345" key="GridCell.Tab.0.left" timestamp="1587123441491">
+    <state width="914" height="378" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587204619341" />
+    <state width="914" height="378" key="GridCell.Tab.0.left" timestamp="1587204619341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="345" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587123441491" />
-    <state width="914" height="345" key="GridCell.Tab.0.right" timestamp="1587123441491">
+    <state width="914" height="378" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587204619341" />
+    <state width="914" height="378" key="GridCell.Tab.0.right" timestamp="1587204619341">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="914" height="345" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587123441491" />
+    <state width="914" height="378" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587204619341" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1585054975303">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -573,7 +572,6 @@
     <state x="539" y="226" width="840" height="848" key="search.everywhere.popup" timestamp="1586828108224">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1578491928425" />
     <state x="539" y="226" width="840" height="848" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1586828108224" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
