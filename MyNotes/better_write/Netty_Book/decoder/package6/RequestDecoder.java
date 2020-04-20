@@ -19,6 +19,7 @@ public class RequestDecoder extends ByteToMessageDecoder {
     @Override
     protected void decode(ChannelHandlerContext channelHandlerContext, ByteBuf in, List<Object> out) throws Exception {
         //注意在读的过程中，readIndex的指针也在移动
+        System.out.println("decode");
         byte type = in.readByte();
         byte flag = in.readByte();
         int length = in.readInt();

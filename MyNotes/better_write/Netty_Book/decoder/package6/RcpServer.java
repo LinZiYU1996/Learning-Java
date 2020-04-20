@@ -32,8 +32,11 @@ public class RcpServer {
                     .childHandler(new ChannelInitializer<SocketChannel>() {
                         @Override
                         protected void initChannel(SocketChannel ch) throws Exception {
-                            ch.pipeline().addLast(new LengthFieldBasedFrameDecoder(65536,
-                                    2, 4));
+                            ch.pipeline().addLast(new LengthFieldBasedFrameDecoder(1024,
+                                    0,
+                                    2,
+                                    0,
+                                    0));
                             ch.pipeline().addLast(new RequestDecoder());
                             ch.pipeline().addLast(new RequestHandler());
                         }
