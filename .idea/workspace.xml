@@ -2,42 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eedd5d77-5374-47a4-bf23-86e4547708f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/ClientHandler_4_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/Client_4_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/MyProtocol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/NewProtocolDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/ProtocolDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/ProtocolEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/ServerHandler_4_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/Server_4_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package7/BusinessServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package7/SelfDefineEncodeHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package7/SocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package7/SocketClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package7/SocketClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package7/SocketServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package7/SocketServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/life/package1/ClientLi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/life/package1/ClientLiHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/life/package1/LifeCycleTestHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/life/package1/ServerLi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package1/PerformTestUserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package1/TestUserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package1/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package2/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package2/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package2/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package2/ServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package2/SubscribeReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package2/SubscribeResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/my_try_1/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package3/TestSerializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/serializ/package3/student.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/data_structure/linklist/single_list/blog1/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/data_structure/linklist/single_list/blog1/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/data_structure/linklist/single_list/blog1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/data_structure/linklist/single_list/my1/ListFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/data_structure/linklist/single_list/my1/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/data_structure/linklist/single_list/my1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/deal_Number/pack1/ArithUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/deal_Number/pack1/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/EraseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/EraseMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack1/AbstractA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack1/ImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack1/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack1/OverLoadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack1/WildCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack2/WildCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack2/WildCardTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack3/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyNotes/oschina/Java/generic/pack3/WildcardTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/my_try_1/Info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/serializ/package3/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/serializ/package3/TestSerializable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/serializ/package3/student.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RcpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RcpServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RequestDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/MyNotes/better_write/Netty_Book/decoder/package6/RequestDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/package6/RcpServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/package6/RcpServer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/package6/RcpServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/package6/RcpServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/package6/RequestDecoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/package6/RequestDecoder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/package6/RequestHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/better_write/Netty_Book/decoder/package6/RequestHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/ListPerformance$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/MapPerformance$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/output/production/Learning-Java/chapter_17/demo/d8/SetPerformance$3.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,22 +91,34 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/util/jar/slf4j-api-1.7.25.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="ts.external.directory.path" value="E:\IDEA Develop\IntelliJ IDEA 2019.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="design_pattern.Adapter_pattern.p2" />
+      <recent name="thread.c3.c_3_1.c_3_1_6.a5" />
+      <recent name="C_1.c_1_6.d1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_4\a3" />
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_3\a12\b12" />
@@ -104,16 +126,8 @@
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a6" />
       <recent name="E:\learn-java\Learning-Java\MyNotes\thread\c3\c_3_1\c_3_1_2\a5" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="design_pattern.Adapter_pattern.p2" />
-      <recent name="thread.c3.c_3_1.c_3_1_6.a5" />
-      <recent name="C_1.c_1_6.d1" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\learn-java\Learning-Java\MyNotes\C_1\c_1_1\c_1_1_1" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Test (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -148,20 +162,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClientLi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.life.package1.ClientLi" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.life.package1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DirList" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="better_write.Java_IO.A1.DirList" />
       <module name="Learning-Java" />
@@ -176,27 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerformTestUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.serializ.package1.PerformTestUserInfo" />
+    <configuration name="EraseMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oschina.Java.generic.EraseMain" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.serializ.package1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.serializ.package2.Server" />
-      <module name="Learning-Java" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.serializ.package2.*" />
+          <option name="PATTERN" value="oschina.Java.generic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,6 +204,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linklist.single_list.blog1.Test" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.linklist.single_list.blog1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="data_structure.linklist.single_list.my1.Test" />
+      <module name="Learning-Java" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.linklist.single_list.my1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestClassLoad" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="better_write.Learn_reflection.Learn_invoke.TestClassLoad" />
       <module name="Learning-Java" />
@@ -232,13 +246,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.serializ.package1.TestUserInfo" />
+    <configuration name="TestSerializable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="better_write.Netty_Book.serializ.package3.TestSerializable" />
       <module name="Learning-Java" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="better_write.Netty_Book.serializ.package1.*" />
+          <option name="PATTERN" value="better_write.Netty_Book.serializ.package3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,19 +311,19 @@
       <item itemvalue="Application.ClassSpy" />
       <item itemvalue="Application.TestClassLoad" />
       <item itemvalue="Application.WhoCalled" />
-      <item itemvalue="Application.ClientLi" />
-      <item itemvalue="Application.TestUserInfo" />
-      <item itemvalue="Application.PerformTestUserInfo" />
-      <item itemvalue="Application.Server" />
       <item itemvalue="Application.Client" />
+      <item itemvalue="Application.TestSerializable" />
+      <item itemvalue="Application.EraseMain" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.EraseMain" />
+        <item itemvalue="Application.TestSerializable" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.PerformTestUserInfo" />
-        <item itemvalue="Application.TestUserInfo" />
-        <item itemvalue="Application.ClientLi" />
       </list>
     </recent_temporary>
   </component>
@@ -476,6 +490,11 @@
       <workItem from="1587087035829" duration="10104000" />
       <workItem from="1587173245189" duration="9155000" />
       <workItem from="1587280225284" duration="13287000" />
+      <workItem from="1587347067647" duration="4172000" />
+      <workItem from="1587956289952" duration="2293000" />
+      <workItem from="1588303105109" duration="3250000" />
+      <workItem from="1588320730001" duration="798000" />
+      <workItem from="1588389758460" duration="5768000" />
     </task>
     <servers />
   </component>
@@ -503,11 +522,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="637" y="141" width="1092" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586486922466" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1587304077597">
+    <state x="691" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587348718467">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="574" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1578967451695" />
-    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587304077597" />
+    <state x="691" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1587348718467" />
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser" timestamp="1588303570715">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="718" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1588303570715" />
     <state x="661" y="145" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586571969911">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -516,6 +538,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1059" y="469" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1586748023302" />
+    <state x="258" y="402" width="507" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587348173970">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="258" y="402" width="507" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1587348173970" />
     <state x="690" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584360926845">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -528,30 +554,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1156" y="398" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1587003585398" />
-    <state x="1154" y="295" key="FileChooserDialogImpl" timestamp="1587290346778">
+    <state x="1154" y="295" key="FileChooserDialogImpl" timestamp="1588320773609">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1587290346778" />
-    <state width="1877" height="362" key="GridCell.Tab.0.bottom" timestamp="1587308698424">
+    <state x="1154" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1588320773609" />
+    <state width="914" height="643" key="GridCell.Tab.0.bottom" timestamp="1588431232951">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="367" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="362" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587308698424" />
-    <state width="1877" height="362" key="GridCell.Tab.0.center" timestamp="1587308698424">
+    <state width="914" height="643" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1588431232951" />
+    <state width="914" height="643" key="GridCell.Tab.0.center" timestamp="1588431232950">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="367" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="362" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587308698424" />
-    <state width="1877" height="362" key="GridCell.Tab.0.left" timestamp="1587308698424">
+    <state width="914" height="643" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1588431232950" />
+    <state width="914" height="643" key="GridCell.Tab.0.left" timestamp="1588431232950">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="367" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="362" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587308698424" />
-    <state width="1877" height="362" key="GridCell.Tab.0.right" timestamp="1587308698424">
+    <state width="914" height="643" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1588431232950" />
+    <state width="914" height="643" key="GridCell.Tab.0.right" timestamp="1588431232950">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1493" height="367" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1579058709318" />
-    <state width="1877" height="362" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587308698424" />
+    <state width="914" height="643" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1588431232950" />
     <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1587308698424">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -572,15 +594,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="757" y="251" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1584362053603" />
-    <state x="311" y="9" key="SettingsEditor" timestamp="1587290532635">
+    <state x="630" y="174" key="SettingsEditor" timestamp="1587353593295">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="249" y="7" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578984419069" />
-    <state x="311" y="9" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587290532635" />
+    <state x="630" y="174" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587353593295" />
     <state x="681" y="281" width="540" height="524" key="StructurePopup" timestamp="1587283786292">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="681" y="281" width="540" height="524" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1587283786292" />
+    <state x="848" y="493" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1587353592390">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="848" y="493" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1587353592390" />
+    <state x="334" y="242" key="new project wizard" timestamp="1587354260183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="242" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1587354260183" />
     <state x="1141" y="167" key="refactoring.ChangeSignatureDialog" timestamp="1587303180246">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
